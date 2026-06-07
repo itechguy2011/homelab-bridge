@@ -1,1 +1,1 @@
-{"id":0,"command":"","status":"idle"}
+{"id":1,"command":"ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 hostname","status":"pending"}
