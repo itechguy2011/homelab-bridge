@@ -1,1 +1,1 @@
-{"id": 10, "command": "sudo systemctl stop claude-poller; sudo pkill -f claude-poller 2>/dev/null; sleep 2; sudo systemctl start claude-poller; sleep 2; ps aux | grep claude-poller | grep -v grep | wc -l; sudo systemctl is-active claude-poller", "status": "pending"}
+{"id": 11, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.201 \"hostname && uptime\"", "status": "pending"}
