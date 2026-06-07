@@ -1,1 +1,1 @@
-{"id": 7, "command": "curl -s https://raw.githubusercontent.com/itechguy2011/homelab-bridge/main/claude-poller.service | sudo tee /etc/systemd/system/claude-poller.service && sudo systemctl daemon-reload && sudo systemctl enable claude-poller && echo SERVICE_INSTALLED", "status": "pending"}
+{"id": 8, "command": "sudo systemctl start claude-poller && sudo systemctl status claude-poller --no-pager | head -4", "status": "pending"}
