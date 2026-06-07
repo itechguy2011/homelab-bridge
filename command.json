@@ -1,1 +1,1 @@
-{"id": 20, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.200 \"docker ps | grep vaultwarden && curl -sk -o /dev/null -w \"%{http_code}\" https://192.168.0.200\"", "status": "pending"}
+{"id": 21, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.201 'curl -s -X POST http://127.0.0.1:3010/api/login -H \"Content-Type: application/json\" -d \"{\\\"username\\\":\\\"admin\\\",\\\"password\\\":\\\"M3gh@n!97&\\\",\\\"token\\\":\\\"\\\"}\"'", "status": "pending"}
