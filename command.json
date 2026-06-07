@@ -1,1 +1,1 @@
-{"id": 9, "command": "pkill -f 'nohup.*claude-poller' 2>/dev/null; echo cleanup done; ps aux | grep claude-poller | grep -v grep | wc -l", "status": "pending"}
+{"id": 10, "command": "sudo systemctl stop claude-poller; sudo pkill -f claude-poller 2>/dev/null; sleep 2; sudo systemctl start claude-poller; sleep 2; ps aux | grep claude-poller | grep -v grep | wc -l; sudo systemctl is-active claude-poller", "status": "pending"}
