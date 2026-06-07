@@ -1,1 +1,1 @@
-{"id": 4, "output": "vm-nextcloud\n/dev/sda2      1005G  177G  788G  19% /", "status": "done"}
+{"id": 7, "output": "[Unit]\nDescription=Claude GitHub Bridge Poller\nAfter=network.target\n\n[Service]\nType=simple\nUser=jose\nExecStart=/bin/bash /home/jose/claude-poller.sh\nRestart=always\nRestartSec=5\n\n[Install]\nWantedBy=multi-user.target\nCreated symlink '/etc/systemd/system/multi-user.target.wants/claude-poller.service' \u2192 '/etc/systemd/system/claude-poller.service'.\nSERVICE_INSTALLED", "status": "done"}
