@@ -1,1 +1,1 @@
-{"id": 8, "output": "\u25cf claude-poller.service - Claude GitHub Bridge Poller\n     Loaded: loaded (/etc/systemd/system/claude-poller.service; enabled; preset: enabled)\n     Active: active (running) since Sun 2026-06-07 03:44:25 EDT; 40ms ago\n Invocation: 9941a1839c374d06ab3538b841c1d8c8", "status": "done"}
+{"id": 9, "output": "cleanup done\n5", "status": "done"}
