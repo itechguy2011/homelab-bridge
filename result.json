@@ -1,1 +1,1 @@
-{"id": 13, "output": "sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper\nsudo: a password is required", "status": "done"}
+{"id": 14, "output": "sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper\nsudo: a password is required", "status": "done"}
