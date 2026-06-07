@@ -1,1 +1,1 @@
-{"id": 16, "output": "nginx: the configuration file /etc/nginx/nginx.conf syntax is ok\nnginx: configuration file /etc/nginx/nginx.conf test is successful\nNGINX_OK", "status": "done"}
+{"id": 17, "output": "HOMEPAGE_UPDATED", "status": "done"}
