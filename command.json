@@ -1,1 +1,1 @@
-{"id": 18, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.201 'docker ps | grep uptime && curl -s -o /dev/null -w \"%{http_code}\" http://127.0.0.1:3010 && cat /etc/nginx/sites-available/wetty | grep -A3 uptime'", "status": "pending"}
+{"id": 19, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.201 'sudo sed -i \"s|href: http://192.168.0.201/uptime|href: http://192.168.0.201:3010|\" /home/jose/homepage/config/services.yaml && docker restart uptime-kuma && echo DONE'", "status": "pending"}
