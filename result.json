@@ -1,1 +1,1 @@
-{"id": 15, "output": "192.168.0.191: root\n192.168.0.192: root\n192.168.0.193: root\n192.168.0.194: root\n192.168.0.195: root\n192.168.0.196: root\n192.168.0.198: root\n192.168.0.199: root\n192.168.0.200: root\n192.168.0.201: root\n192.168.0.202: root\n192.168.0.203: root", "status": "done"}
+{"id": 16, "output": "nginx: the configuration file /etc/nginx/nginx.conf syntax is ok\nnginx: configuration file /etc/nginx/nginx.conf test is successful\nNGINX_OK", "status": "done"}
