@@ -1,1 +1,1 @@
-{"id": 18, "output": "8859aa5fa711   louislam/uptime-kuma:1                \"/usr/bin/dumb-init \u2026\"   35 minutes ago   Up 35 minutes (healthy)   0.0.0.0:3010->3001/tcp, [::]:3010->3001/tcp   uptime-kuma\n302    location /uptime {\n        proxy_pass http://127.0.0.1:3010;\n        proxy_http_version 1.1;\n        proxy_set_header Upgrade $http_upgrade;", "status": "done"}
+{"id": 19, "output": "uptime-kuma\nDONE", "status": "done"}
