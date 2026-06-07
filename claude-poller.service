@@ -1,0 +1,13 @@
+[Unit]
+Description=Claude GitHub Bridge Poller
+After=network.target
+
+[Service]
+Type=simple
+User=jose
+ExecStart=/bin/bash /home/jose/claude-poller.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
