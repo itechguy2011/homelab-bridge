@@ -1,1 +1,1 @@
-{"id": 157, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"ls /home/jose/.openclaw/plugins/; cat /home/jose/.openclaw/plugins/ollama.json 2>/dev/null; ls /home/jose/.openclaw/plugins/ollama/ 2>/dev/null; cat /home/jose/.openclaw/plugins/ollama/config.json 2>/dev/null\"", "status": "pending"}
+{"id": 158, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"grep -E \"baseUrl|host|url|192\\.168\" /home/jose/.openclaw/openclaw.json\"", "status": "pending"}
