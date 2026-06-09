@@ -1,1 +1,1 @@
-{"id": 175, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"ls /home/jose/.openclaw/workspace/; cat /home/jose/.openclaw/workspace/AGENTS.md 2>/dev/null | head -5\"", "status": "pending"}
+{"id": 176, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"ls /home/jose/.openclaw/workspace/memory/; cat /home/jose/.openclaw/workspace/USER.md; echo === SOUL ===; cat /home/jose/.openclaw/workspace/SOUL.md\"", "status": "pending"}
