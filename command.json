@@ -1,1 +1,1 @@
-{"id": 106, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.198 \"ss -tlnp\" && ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.201 \"docker ps\" && ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.200 \"docker ps\"", "status": "pending"}
+{"id": 107, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo journalctl -u gitea -n 30 --no-pager\"", "status": "pending"}
