@@ -1,1 +1,1 @@
-{"id": 120, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"ls /app/gitea; ls /etc/s6/; systemctl list-units s6* --no-pager 2>/dev/null; systemctl cat s6* 2>/dev/null | head -20\"", "status": "pending"}
+{"id": 121, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"cat /proc/5207/cmdline | xargs -0 echo; ls -la /home/jose/gitea* 2>/dev/null; ls /home/jose/.config/gitea 2>/dev/null; ls /var/lib/gitea 2>/dev/null\"", "status": "pending"}
