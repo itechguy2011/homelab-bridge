@@ -1,1 +1,1 @@
-{"id": 123, "output": "enabled\n200root        5205  0.0  0.0   1096   740 ?        S    Jun06   0:00 s6-supervise gitea\njose        5207  0.1  1.2 1514688 201420 ?      Ssl  Jun06   6:55 /usr/local/bin/gitea web", "status": "done"}
+{"id": 124, "output": "Warning: Permanently added '192.168.0.204' (ED25519) to the list of known hosts.\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\njose@192.168.0.204: Permission denied (publickey,password).\r", "status": "done"}
