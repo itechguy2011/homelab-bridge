@@ -1,1 +1,1 @@
-{"id": 171, "output": "pull_pid=", "status": "done"}
+{"id": 172, "output": "Starting pull of qwen3.5:9b (6.6GB)...\nResult: success\nqwen3.5:9b 6.6 GB\nllama3.2:latest 2.0 GB\nllama3:8b 4.7 GB\nqwen3:32b 20.2 GB\nqwen3-coder:30b 18.6 GB\ndeepseek-r1:latest 5.2 GB", "status": "done"}
