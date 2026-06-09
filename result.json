@@ -1,1 +1,1 @@
-{"id": 168, "output": "{\"error\":\"invalid character 'n' looking for beginning of object key string\"}", "status": "done"}
+{"id": 169, "output": "/home/jose/claude-poller.sh: eval: line 16: syntax error near unexpected token `('\n/home/jose/claude-poller.sh: eval: line 16: `ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"curl -s http://192.168.0.39:11434/api/tags | python3 -c \"import sys,json; models=json.load(sys.stdin)[\\\"models\\\"]; [print(m[\\\"name\\\"], m[\\\"size\\\"]) for m in models]\"\"'", "status": "done"}
