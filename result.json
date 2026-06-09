@@ -1,1 +1,1 @@
-{"id": 146, "output": "bash: line 1: sqlite3: command not found", "status": "done"}
+{"id": 147, "output": "Unpacking sqlite3 (3.46.1-7+deb13u1) ...\r\nSetting up sqlite3 (3.46.1-7+deb13u1) ...\r\nProcessing triggers for man-db (2.13.1-1) ...\r", "status": "done"}
