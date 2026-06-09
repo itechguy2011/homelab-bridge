@@ -1,1 +1,1 @@
-{"id": 124, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.204 \"hostname && uptime && cat /etc/os-release | grep PRETTY && df -h / | tail -1 && free -h | grep Mem\"", "status": "pending"}
+{"id": 125, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.204 \"hostname && uptime && cat /etc/os-release | grep PRETTY_NAME && nproc && free -h | grep Mem && df -h / | tail -1\"", "status": "pending"}
