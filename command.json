@@ -1,1 +1,1 @@
-{"id": 147, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo apt-get install -y sqlite3 2>&1 | tail -3\"", "status": "pending"}
+{"id": 148, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sqlite3 /home/jose/.n8n/database.sqlite 'SELECT id, name, type FROM credentials_entity'\"", "status": "pending"}
