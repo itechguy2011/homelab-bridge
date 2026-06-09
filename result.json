@@ -1,1 +1,1 @@
-{"id": 151, "output": "Argument expected for the -c option\nusage: python3 [option] ... [-c cmd | -m mod | file | -] [arg] ...\nTry `python -h' for more information.\n/home/jose/claude-poller.sh: line 17: import: command not found\n/home/jose/claude-poller.sh: eval: line 18: syntax error near unexpected token `('\n/home/jose/claude-poller.sh: eval: line 18: `with open('/home/jose/.openclaw/openclaw.json') as f:'", "status": "done"}
+{"id": 152, "output": "done - primary set to ollama/llama3.2:latest", "status": "done"}
