@@ -1,1 +1,1 @@
-{"id": 161, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"systemctl --user restart openclaw-gateway && sleep 5 && systemctl --user status openclaw-gateway --no-pager | head -10\"", "status": "pending"}
+{"id": 162, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"sleep 10 && journalctl --user -u openclaw-gateway -n 20 --no-pager\"", "status": "pending"}
