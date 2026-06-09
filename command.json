@@ -1,1 +1,1 @@
-{"id": 165, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"journalctl --user -u openclaw-gateway -n 8 --no-pager\"", "status": "pending"}
+{"id": 166, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"curl -s -X POST http://192.168.0.39:11434/api/pull -d '{\"name\":\"qwen3.5:9b\"}' &\"", "status": "pending"}
