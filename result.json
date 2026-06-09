@@ -1,1 +1,1 @@
-{"id": 108, "output": "Unit gitea.service could not be found.", "status": "done"}
+{"id": 110, "output": "not_in_local_bin\nnot_in_bin\nnot_in_opt\nno_git_user\nno_home_git", "status": "done"}
