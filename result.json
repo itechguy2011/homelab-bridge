@@ -1,1 +1,1 @@
-{"id": 131, "output": "done", "status": "done"}
+{"id": 132, "output": "/home/jose/claude-poller.sh: eval: line 16: syntax error near unexpected token `('\n/home/jose/claude-poller.sh: eval: line 16: `ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.204 \"sudo grep -q NOPASSWD /etc/sudoers && echo already_set || (echo \"jose ALL=(ALL) NOPASSWD:ALL\" | sudo tee /etc/sudoers.d/jose && sudo chmod 440 /etc/sudoers.d/jose && echo done)\"'", "status": "done"}
