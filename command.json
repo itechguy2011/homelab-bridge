@@ -1,1 +1,1 @@
-{"id": 133, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.204 \"echo jose ALL=\\(ALL\\) NOPASSWD:ALL | sudo tee /etc/sudoers.d/jose && sudo chmod 440 /etc/sudoers.d/jose && echo done\"", "status": "pending"}
+{"id": 134, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.204 \"sudo whoami && docker --version && docker compose version && docker ps --format table\"", "status": "pending"}
