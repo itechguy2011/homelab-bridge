@@ -1,1 +1,1 @@
-{"id": 159, "output": "auth keys: ['profiles']\nproviders keys: []\nollama section: {}\ntop level keys: ['agents', 'gateway', 'session', 'browser', 'tools', 'plugins', 'auth', 'channels', 'meta', 'wizard', 'skills', 'commands', 'models']", "status": "done"}
+{"id": 160, "output": "models section: {\n  \"providers\": {\n    \"ollama\": {\n      \"baseUrl\": \"http://192.168.0.39:11434\",\n      \"apiKey\": \"ollama-local\",\n      \"api\": \"ollama\"\n    }\n  }\n}\nplugins ollama: {\n  \"enabled\": true\n}", "status": "done"}
