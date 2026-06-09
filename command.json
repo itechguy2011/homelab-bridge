@@ -1,1 +1,1 @@
-{"id": 154, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"grep -i ollama /home/jose/.openclaw/openclaw.json | grep -v models | grep -v agentRuntime\"", "status": "pending"}
+{"id": 155, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"ls /home/jose/.openclaw/; ls /home/jose/.openclaw/plugins/ 2>/dev/null; grep -r 192.168 /home/jose/.openclaw/ 2>/dev/null | grep -v Binary\"", "status": "pending"}
