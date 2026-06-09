@@ -1,1 +1,1 @@
-{"id": 121, "output": "/usr/local/bin/gitea web\ntotal 12\ndrwxrwxr-x  3 jose docker 4096 Jun  6 21:12 .\ndrwx------ 11 jose jose   4096 Jun  9 16:55 ..\ndrwxrwxr-x  5 jose docker 4096 Jun  6 21:12 data", "status": "done"}
+{"id": 122, "output": "Created symlink '/etc/systemd/system/multi-user.target.wants/gitea.service' \u2192 '/etc/systemd/system/gitea.service'.\nenabled_ok", "status": "done"}
