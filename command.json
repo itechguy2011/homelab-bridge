@@ -1,1 +1,1 @@
-{"id": 167, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"cat > /tmp/pull_model.sh << 'SHEOF'\n#!/bin/bash\ncurl -s -X POST http://192.168.0.39:11434/api/pull -d '{\"name\":\"qwen3.5:9b\"}' -o /tmp/pull_output.txt &\necho pull_started_pid=$!\nSHEOF\nchmod +x /tmp/pull_model.sh && bash /tmp/pull_model.sh\"", "status": "pending"}
+{"id": 168, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"tail -5 /tmp/pull_output.txt 2>/dev/null || echo no_output_yet\"", "status": "pending"}
