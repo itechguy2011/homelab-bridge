@@ -1,1 +1,1 @@
-{"id": 134, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.204 \"sudo whoami && docker --version && docker compose version && docker ps --format table\"", "status": "pending"}
+{"id": 135, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.201 \"grep -i portainer ~/homepage/config/services.yaml && echo found || echo not_found\"", "status": "pending"}
