@@ -1,1 +1,1 @@
-{"id": 144, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"grep -r ollama /home/jose/.n8n/ 2>/dev/null | grep -v Binary | head -30; cat /home/jose/.n8n/.env 2>/dev/null; ls /home/jose/.n8n/\"", "status": "pending"}
+{"id": 145, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo systemctl cat n8n | head -40; cat /etc/n8n.env 2>/dev/null; cat /etc/default/n8n 2>/dev/null; cat /home/jose/n8n.env 2>/dev/null\"", "status": "pending"}
