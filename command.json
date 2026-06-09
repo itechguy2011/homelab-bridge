@@ -1,1 +1,1 @@
-{"id": 141, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"cat /home/jose/.hermes/config.yaml\"", "status": "pending"}
+{"id": 142, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"grep -ri ollama /home/jose/.openclaw/ 2>/dev/null | head -20; find /home/jose -name config.yaml -o -name config.json -o -name .env 2>/dev/null | head -10\"", "status": "pending"}
