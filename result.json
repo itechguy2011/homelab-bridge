@@ -1,1 +1,1 @@
-{"id": 122, "output": "Created symlink '/etc/systemd/system/multi-user.target.wants/gitea.service' \u2192 '/etc/systemd/system/gitea.service'.\nenabled_ok", "status": "done"}
+{"id": 123, "output": "enabled\n200root        5205  0.0  0.0   1096   740 ?        S    Jun06   0:00 s6-supervise gitea\njose        5207  0.1  1.2 1514688 201420 ?      Ssl  Jun06   6:55 /usr/local/bin/gitea web", "status": "done"}
