@@ -1,1 +1,1 @@
-{"id": 126, "output": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKwnvuMIp7WDtCaT1d4QMLMX0GNiD+w7ENaqdcCY49W1 n8n-bridge", "status": "done"}
+{"id": 127, "output": "vm-mcp-services\n 17:04:04 up  2:38,  2 users,  load average: 0.02, 0.02, 0.00\nPRETTY_NAME=\"Debian GNU/Linux 13 (trixie)\"\n8\nMem:            15Gi       651Mi        14Gi       952Ki       1.2Gi        14Gi\n/dev/sda2        46G  2.5G   41G   6% /", "status": "done"}
