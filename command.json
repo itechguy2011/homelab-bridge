@@ -1,1 +1,1 @@
-{"id": 127, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.204 \"hostname && uptime && cat /etc/os-release | grep PRETTY_NAME && nproc && free -h | grep Mem && df -h / | tail -1\"", "status": "pending"}
+{"id": 128, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.201 \"docker run -d --name wetty-mcp-services --restart always -p 3008:3000 wettyoss/wetty --ssh-host 192.168.0.204 --ssh-user jose && docker ps | grep wetty-mcp && ls ~/homepage/config/\"", "status": "pending"}
