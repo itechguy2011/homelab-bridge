@@ -1,1 +1,1 @@
-{"id": 143, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"cat /home/jose/.openclaw/openclaw.json | python3 -c \"import sys,json; d=json.load(sys.stdin); print(json.dumps(d.get(\\\"ollama\\\",{}), indent=2))\"\"", "status": "pending"}
+{"id": 144, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"grep -r ollama /home/jose/.n8n/ 2>/dev/null | grep -v Binary | head -30; cat /home/jose/.n8n/.env 2>/dev/null; ls /home/jose/.n8n/\"", "status": "pending"}
