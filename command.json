@@ -1,1 +1,1 @@
-{"id": 140, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"echo === HERMES ENV ===; cat /home/jose/.hermes/.env; echo === HERMES CONFIG ===; cat /home/jose/.hermes/config.yaml\"", "status": "pending"}
+{"id": 141, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"cat /home/jose/.hermes/config.yaml\"", "status": "pending"}
