@@ -1,1 +1,1 @@
-{"id": 108, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo systemctl status gitea --no-pager; which gitea; ls /etc/systemd/system/gitea* 2>/dev/null; ls /usr/local/bin/gitea 2>/dev/null\"", "status": "pending"}
+{"id": 109, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"find / -name gitea -type f 2>/dev/null; ls /home/git/ 2>/dev/null; id git 2>/dev/null\"", "status": "pending"}
