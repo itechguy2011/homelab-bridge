@@ -1,1 +1,1 @@
-{"id": 120, "output": "ls: cannot access '/app/gitea': No such file or directory\nls: cannot access '/etc/s6/': No such file or directory\n  UNIT LOAD ACTIVE SUB DESCRIPTION\n\n0 loaded units listed. Pass --all to see loaded but inactive units, too.\nTo show all installed unit files use 'systemctl list-unit-files'.", "status": "done"}
+{"id": 121, "output": "/usr/local/bin/gitea web\ntotal 12\ndrwxrwxr-x  3 jose docker 4096 Jun  6 21:12 .\ndrwx------ 11 jose jose   4096 Jun  9 16:55 ..\ndrwxrwxr-x  5 jose docker 4096 Jun  6 21:12 data", "status": "done"}
