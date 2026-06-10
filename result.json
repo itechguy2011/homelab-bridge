@@ -1,1 +1,1 @@
-{"id": 421, "output": "Traceback (most recent call last):\n  File \"<string>\", line 1, in <module>\n    import sys,json; d=json.load(sys.stdin); print(d.get('id',d)[:100])\n                                                   ~~~~~~~~~~~~~^^^^^^\nKeyError: slice(None, 100, None)", "status": "done"}
+{"id": 422, "output": "{\"message\":\"request/body/active is read-only\"}", "status": "done"}
