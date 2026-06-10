@@ -1,1 +1,1 @@
-{"id": 300, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo systemctl reset-failed claude-poller; sudo systemctl restart claude-poller && echo poller_ok\"", "status": "pending"}
+{"id": 301, "command": "echo poller_alive", "status": "pending"}
