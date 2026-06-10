@@ -1,1 +1,1 @@
-{"id": 252, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"echo poller_test\"", "status": "pending"}
+{"id": 260, "command": "echo ready", "status": "pending"}
