@@ -1,1 +1,1 @@
-{"id": 537, "output": "=== Kuma user / auth setup ===\n1|admin\n=== Is 2FA enabled? ===\n1|admin|0\n=== Is the uptime-kuma-api python lib feasible? Check pip ===\npython on .201: Python 3.13.5\n=== Settings: disableAuth? ===", "status": "done"}
+{"id": 538, "output": "=== Search for kuma password in docker-compose / env files ===\n/home/jose/homepage/docker-compose.yml\n=== Check uptime-kuma compose/env specifically ===\n=== Check docker inspect env for password ===\nno password in container env\n=== Homepage config may reference kuma creds ===", "status": "done"}
