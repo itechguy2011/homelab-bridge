@@ -1,1 +1,1 @@
-{"id": 513, "output": "Removed '/etc/systemd/system/multi-user.target.wants/hermes-gateway.service'.\nstopped_ok", "status": "done"}
+{"id": 514, "output": "HEALER_CRON: removed\nHEALER_FILES: removed\nHERMES_STOPPED", "status": "done"}
