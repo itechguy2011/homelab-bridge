@@ -1,1 +1,1 @@
-{"id": 370, "output": "gitea (.191): active\ncloudflared (.191): active\nopenclaw (.199): active\nvaultwarden (.200): \ndashboard (.201): homepage\nwetty\nuptime-kuma\nwetty-mcp-services: Up 14 hours\nuptime-kuma: Up 3 days (healthy)\nwetty-ollama: Up 3 days\nwetty-hermes: Up 3 days\nwetty-dashboard: Up 3 days\nwetty-openclaw: Up 3 days\nwetty-n\nportainer (.204): portainer\nportainer: Up 17 hours", "status": "done"}
+{"id": 371, "output": "vaultwarden (.200): vaultwarden: Up 9 days (healthy)\ninactive\nvm-ollama ping: UNREACHABLE", "status": "done"}
