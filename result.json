@@ -1,1 +1,1 @@
-{"id": 199, "output": "telegram:\n  reactions: false\n  channel_prompts: {}\n  allowed_chats: ''\nmattermost:\n  require_mention: true", "status": "done"}
+{"id": 200, "output": "  File \"/tmp/fix_telegram2.py\", line 9\n    old = 'telegram:\n          ^\nSyntaxError: unterminated string literal (detected at line 9)", "status": "done"}
