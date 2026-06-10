@@ -1,1 +1,1 @@
-{"id": 511, "command": "sudo pkill -9 -f waitrestart.py; sudo pkill -9 -f \"time.sleep(430)\"; sudo systemctl reset-failed claude-poller; sudo systemctl restart claude-poller; echo \"poller recovered\"", "status": "pending"}
+{"id": 512, "command": "sudo pkill -9 -f waitrestart.py 2>/dev/null; sudo pkill -9 -f \"sleep 430\" 2>/dev/null; sudo systemctl reset-failed claude-poller 2>/dev/null; systemctl is-active claude-poller; ps aux | grep -E \"poller\" | grep -v grep | head -3", "status": "pending"}
