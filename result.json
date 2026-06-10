@@ -1,1 +1,1 @@
-{"id": 342, "output": "-rw-r--r-- 1 jose jose 0 Jun 10 01:51 /tmp/hermes.log", "status": "done"}
+{"id": 343, "output": "service rewritten\nTraceback (most recent call last):\n  File \"/tmp/rewrite_svc.py\", line 37, in <module>\n    open('/tmp/hermes.log', 'w').close()\n    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^\nPermissionError: [Errno 13] Permission denied: '/tmp/hermes.log'", "status": "done"}
