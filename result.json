@@ -1,1 +1,1 @@
-{"id": 204, "output": "/home/jose/claude-poller.sh: eval: line 25: unexpected EOF while looking for matching `''", "status": "done"}
+{"id": 205, "output": "bash: line 1: 192.168.0.203:11434: command not found\nbash: line 1: 192.168.0.39:11434: command not found\nbash: line 1: g: command not found\nsed: -e expression #1, char 1: unterminated `s' command", "status": "done"}
