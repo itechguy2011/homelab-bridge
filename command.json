@@ -1,1 +1,1 @@
-{"id": 294, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo cloudflared tunnel list 2>/dev/null; find / -name config.yml -path *cloudflared* 2>/dev/null | head -5; sudo systemctl cat cloudflared | grep -i exec\"", "status": "pending"}
+{"id": 300, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo systemctl reset-failed claude-poller; sudo systemctl restart claude-poller && echo poller_ok\"", "status": "pending"}
