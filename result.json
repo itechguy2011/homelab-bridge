@@ -1,1 +1,1 @@
-{"id": 335, "output": "LISTEN 0      128          0.0.0.0:8080      0.0.0.0:*    users:((\"hermes\",pid=3460,fd=17))\nwebhook_port_up", "status": "done"}
+{"id": 336, "output": "/home/jose/claude-poller.sh: line 16: Status; curl -s -o /dev/null -w %{http_code} http://192.168.0.202:8080/telegram 2>/dev/null; echo port_test_done: No such file or directory", "status": "done"}
