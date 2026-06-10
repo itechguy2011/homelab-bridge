@@ -1,1 +1,1 @@
-{"id": 198, "output": "env_updated\n    telegram:\n      streaming: true\n    discord:\n      streaming: false\n  runtime_footer:\n    enabled: false\n--\ntelegram:\n  reactions: false\n  channel_prompts: {}\n  allowed_chats: ''\nmattermost:\n  require_mention: true", "status": "done"}
+{"id": 199, "output": "telegram:\n  reactions: false\n  channel_prompts: {}\n  allowed_chats: ''\nmattermost:\n  require_mention: true", "status": "done"}
