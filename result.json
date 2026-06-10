@@ -1,1 +1,1 @@
-{"id": 276, "output": "Remy SOUL.md written", "status": "done"}
+{"id": 277, "output": "  File \"/tmp/set_group.py\", line 6\n    if 'TELEGRAM_HOME_CHANNEL=' not in content or 'TELEGRAM_HOME_CHANNEL=\n                                                  ^\nSyntaxError: unterminated string literal (detected at line 6)", "status": "done"}
