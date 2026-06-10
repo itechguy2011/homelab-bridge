@@ -1,1 +1,1 @@
-{"id": 289, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"sudo systemctl status hermes-gateway --no-pager | head -5\"", "status": "pending"}
+{"id": 290, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"sudo journalctl -u hermes-gateway -n 30 --no-pager -o short-precise 2>/dev/null | tail -20\"", "status": "pending"}
