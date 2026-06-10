@@ -1,1 +1,1 @@
-{"id": 512, "command": "sudo pkill -9 -f waitrestart.py 2>/dev/null; sudo pkill -9 -f \"sleep 430\" 2>/dev/null; sudo systemctl reset-failed claude-poller 2>/dev/null; systemctl is-active claude-poller; ps aux | grep -E \"poller\" | grep -v grep | head -3", "status": "pending"}
+{"id": 513, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"sudo systemctl stop hermes-gateway && sudo systemctl disable hermes-gateway && echo stopped_ok\"", "status": "pending"}
