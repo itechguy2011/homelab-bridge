@@ -1,1 +1,1 @@
-{"id": 302, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo systemctl cat cloudflared | grep ExecStart; find /etc /home/jose -name config.yml -path *cloudflared* 2>/dev/null; find /etc /home/jose -name *.json -path *cloudflared* 2>/dev/null | head -5\"", "status": "pending"}
+{"id": 303, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"which cloudflared 2>/dev/null || echo not_installed; ss -tlnp | grep 9119 || echo port_9119_not_open\"", "status": "pending"}
