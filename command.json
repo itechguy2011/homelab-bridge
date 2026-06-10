@@ -1,1 +1,1 @@
-{"id": 208, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"sudo systemctl show hermes-gateway | grep -i environ; sudo cat /proc/$(sudo systemctl show -p MainPID hermes-gateway | cut -d= -f2)/environ 2>/dev/null | tr '\\0' '\\n' | grep -i telegram\"", "status": "pending"}
+{"id": 209, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"grep -n TELEGRAM /home/jose/.hermes/.env; echo ---; tail -10 /home/jose/.hermes/.env\"", "status": "pending"}
