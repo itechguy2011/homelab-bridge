@@ -1,1 +1,1 @@
-{"id": 305, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"cat /home/jose/.hermes/pairing/sessions.json\"", "status": "pending"}
+{"id": 306, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"find /home/jose/.hermes -name sessions.json 2>/dev/null; ls /home/jose/.hermes/sessions/ 2>/dev/null; sqlite3 /home/jose/.hermes/state.db \".tables\" 2>/dev/null\"", "status": "pending"}
