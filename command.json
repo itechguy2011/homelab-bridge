@@ -1,1 +1,1 @@
-{"id": 238, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"grep -A20 telegram /home/jose/.hermes/hermes-agent/cli-config.yaml.example | head -25\"", "status": "pending"}
+{"id": 239, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"grep -n telegram /home/jose/.hermes/hermes-agent/cli-config.yaml.example | grep -iv toolset | grep -iv platform | grep -iv preset | grep -iv custom | head -30\"", "status": "pending"}
