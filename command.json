@@ -1,1 +1,1 @@
-{"id": 262, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"grep TELEGRAM /home/jose/.hermes/.env | grep -v ^# ; grep -A4 ^telegram: /home/jose/.hermes/config.yaml\"", "status": "pending"}
+{"id": 263, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"sudo systemctl reset-failed hermes-gateway && sudo systemctl start hermes-gateway && sleep 12 && journalctl -u hermes-gateway --since -15s --no-pager 2>/dev/null | tail -15\"", "status": "pending"}
