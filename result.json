@@ -1,1 +1,1 @@
-{"id": 395, "output": "Ollama from .199: OK in 6.6s - Hi there! \ud83d\udc4b How's your day going?\nRemy model config: {}", "status": "done"}
+{"id": 396, "output": "Model config set\nagent: {\n  \"provider\": \"ollama\",\n  \"model\": \"qwen3.5:9b\",\n  \"baseUrl\": \"http://192.168.0.39:11434\"\n}\nRestarted", "status": "done"}
