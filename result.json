@@ -1,1 +1,1 @@
-{"id": 350, "output": "TimeoutStopSec added\nstatus: active\nlog: {\"ok\":true,\"result\":true}\nport: LISTEN 0      128          0.0.0.0:8080      0.0.0.0:*    users:((\"hermes\",pid=4010,fd=17))", "status": "done"}
+{"id": 351, "output": "log size: 25 bytes\n{\"ok\":true,\"result\":true}", "status": "done"}
