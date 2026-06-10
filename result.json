@@ -1,1 +1,1 @@
-{"id": 324, "output": "Jun 10 01:09:02.009240 hermes-debian python[3192]: WARNING gateway.platforms.telegram: [Telegram] Telegram polling conflict (1/5) \u2014 previous session still held open on Telegram's servers. Waiting 20s for it to expire. Error: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running", "status": "done"}
+{"id": 325, "output": "", "status": "done"}
