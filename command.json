@@ -1,1 +1,1 @@
-{"id": 335, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"sudo systemctl restart hermes-gateway && sleep 5 && ss -tlnp | grep 8080 && echo webhook_port_up\"", "status": "pending"}
+{"id": 336, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"sudo ufw status | grep -E \"8080|Status\"; curl -s -o /dev/null -w \"%{http_code}\" http://192.168.0.202:8080/telegram 2>/dev/null; echo port_test_done\"", "status": "pending"}
