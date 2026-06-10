@@ -1,1 +1,1 @@
-{"id": 222, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"find /home/jose/.npm-global/lib/node_modules/openclaw -name *.js -path *telegram* 2>/dev/null | grep -v node_modules/openclaw/node_modules | head -10\"", "status": "pending"}
+{"id": 223, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"head -80 /home/jose/.npm-global/lib/node_modules/openclaw/dist/extensions/telegram/contract-api.js\"", "status": "pending"}
