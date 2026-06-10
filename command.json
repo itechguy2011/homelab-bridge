@@ -1,1 +1,1 @@
-{"id": 334, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"curl -s https://api.telegram.org/bot8849049212:AAH2CHM_CDLDeTLfVxw7UGz5aO1weVBdnpw/getWebhookInfo\"", "status": "pending"}
+{"id": 335, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"sudo systemctl restart hermes-gateway && sleep 5 && ss -tlnp | grep 8080 && echo webhook_port_up\"", "status": "pending"}
