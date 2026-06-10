@@ -1,1 +1,1 @@
-{"id": 387, "output": "ExecStartPre removed\nTraceback (most recent call last):\n  File \"/tmp/fix_timeout.py\", line 31, in <module>\n    with open('/home/jose/.openclaw/openclaw.json') as f:\n         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/home/jose/.openclaw/openclaw.json'", "status": "done"}
+{"id": 388, "output": "/home/jose/claude-poller.sh: eval: line 16: unexpected EOF while looking for matching `\"'", "status": "done"}
