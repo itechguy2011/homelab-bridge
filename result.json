@@ -1,1 +1,1 @@
-{"id": 319, "output": "no pending updates\nstarted clean", "status": "done"}
+{"id": 320, "output": "telegram:\n  reactions: false\n  channel_prompts: {}\n  allowed_chats: ''\nmattermost:\n  require_mention: true\n  free_response_channels: ''\n  allowed_channels: ''\n  channel_prompts: {}\nmatrix:\n  require_mention: true", "status": "done"}
