@@ -1,1 +1,1 @@
-{"id": 303, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"which cloudflared 2>/dev/null || echo not_installed; ss -tlnp | grep 9119 || echo port_9119_not_open\"", "status": "pending"}
+{"id": 304, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"ls /home/jose/.hermes/pairing/ 2>/dev/null; ls /home/jose/.hermes/sessions/ 2>/dev/null; ls /home/jose/.hermes/state* 2>/dev/null\"", "status": "pending"}
