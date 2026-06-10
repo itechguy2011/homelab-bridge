@@ -1,1 +1,1 @@
-{"id": 396, "output": "Model config set\nagent: {\n  \"provider\": \"ollama\",\n  \"model\": \"qwen3.5:9b\",\n  \"baseUrl\": \"http://192.168.0.39:11434\"\n}\nRestarted", "status": "done"}
+{"id": 397, "output": "", "status": "done"}
