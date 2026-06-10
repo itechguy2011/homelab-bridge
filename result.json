@@ -1,1 +1,1 @@
-{"id": 429, "output": "cleared", "status": "done"}
+{"id": 432, "output": "Traceback (most recent call last):\n  File \"<stdin>\", line 6, in <module>\nFileNotFoundError: [Errno 2] No such file or directory: '/home/jose/hermes-api.py'", "status": "done"}
