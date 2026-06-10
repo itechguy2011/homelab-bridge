@@ -1,1 +1,1 @@
-{"id": 301, "command": "echo poller_alive", "status": "pending"}
+{"id": 302, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo systemctl cat cloudflared | grep ExecStart; find /etc /home/jose -name config.yml -path *cloudflared* 2>/dev/null; find /etc /home/jose -name *.json -path *cloudflared* 2>/dev/null | head -5\"", "status": "pending"}
