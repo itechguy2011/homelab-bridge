@@ -1,1 +1,1 @@
-{"id": 381, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"ping -c2 -W3 192.168.0.39 && echo pc_reachable || echo pc_unreachable; nc -zw3 192.168.0.39 11434 && echo ollama_port_open || echo ollama_port_closed\"", "status": "pending"}
+{"id": 382, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"curl -s http://192.168.0.39:11434/api/tags | python3 -c \\\"import sys,json; d=json.load(sys.stdin); print([m['name'] for m in d.get('models',[])])\\\"", "status": "pending"}
