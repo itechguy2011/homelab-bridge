@@ -1,1 +1,1 @@
-{"id": 355, "output": "delete: {\"ok\":true,\"result\":true,\"description\":\"Webhook was deleted\"}\nset: {\"ok\":true,\"result\":true,\"description\":\"Webhook was set\"}", "status": "done"}
+{"id": 356, "output": "log size: 25\n{\"ok\":true,\"result\":true}", "status": "done"}
