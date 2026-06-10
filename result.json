@@ -1,1 +1,1 @@
-{"id": 354, "output": "setWebhook: {\"ok\":true,\"result\":true,\"description\":\"Webhook is already set\"}\nurl: https://sakura.cutegrafiks.com/telegram\npending: 0\nlast_error: None", "status": "done"}
+{"id": 355, "output": "delete: {\"ok\":true,\"result\":true,\"description\":\"Webhook was deleted\"}\nset: {\"ok\":true,\"result\":true,\"description\":\"Webhook was set\"}", "status": "done"}
