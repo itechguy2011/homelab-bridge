@@ -1,1 +1,1 @@
-{"id": 406, "output": "n8n config dirs: /home/jose/.n8n\n\nMountAPIVFS=no\nKeyringMode=private", "status": "done"}
+{"id": 407, "output": ".encryptionKey: Gwh8jRAv5BJxra2WAy0cfivYNzy1cGF6\nn8n files: config\ndatabase.sqlite\ndatabase.sqlite-shm\ndatabase.sqlite-wal\nn8nEventLog-1.log\nn8nEventLog-2.log\nn8nEventLog-3.log\nn8nEventLog.log\nnodes\nstorage\n\nn8n API no auth: {\"message\":\"'X-N8N-API-KEY' header required\"}", "status": "done"}
