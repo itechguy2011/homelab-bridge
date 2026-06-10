@@ -1,1 +1,1 @@
-{"id": 489, "output": "cleared", "status": "done"}
+{"id": 490, "output": "=== Fleet ===\nOK cloudflared: active\nOK n8n: active\nOK hermes-gateway: active\nOK hermes-api: active\nOK openclaw: active\nOK healer-cron: 1\n\n=== Tunnel ===\nOK n8n.cutegrafiks.com: 200\nOK hermes-api.cutegrafiks.com: 200\nOK remy.cutegrafiks.com: 200\nOK sakura.cutegrafiks.com: 405", "status": "done"}
