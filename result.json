@@ -1,1 +1,1 @@
-{"id": 437, "output": "allowedHosts set\nstatus: active\nlocal remy host test: ", "status": "done"}
+{"id": 438, "output": "hermes-api with new host: {\"status\": \"active\", \"gateway\": \"hermes\"} 0\nhermes-api no host: {\"status\": \"active\", \"gateway\": \"hermes\"}\nport: LISTEN 0      5            0.0.0.0:7600      0.0.0.0:*    users:((\"python3\",pid=5921,fd=3))\nport: LISTEN 0      128          0.0.0.0:8080      0.0.0.0:*    users:((\"hermes\",pid=5176,fd=17))\nhermes-api logs: -- No entries --", "status": "done"}
