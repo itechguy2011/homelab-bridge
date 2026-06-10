@@ -1,1 +1,1 @@
-{"id": 538, "output": "=== Search for kuma password in docker-compose / env files ===\n/home/jose/homepage/docker-compose.yml\n=== Check uptime-kuma compose/env specifically ===\n=== Check docker inspect env for password ===\nno password in container env\n=== Homepage config may reference kuma creds ===", "status": "done"}
+{"id": 539, "output": "=== Install uptime-kuma-api ===\nbash: line 2: pip: command not found\n    ^^^^^^^^^^^^^^^^^^^^^^\nModuleNotFoundError: No module named 'uptime_kuma_api'", "status": "done"}
