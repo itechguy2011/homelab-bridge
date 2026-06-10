@@ -1,1 +1,1 @@
-{"id": 380, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"tail -20 /tmp/hermes.log && echo --- && systemctl is-active hermes-gateway && ss -tlnp | grep 8080\"", "status": "pending"}
+{"id": 381, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"ping -c2 -W3 192.168.0.39 && echo pc_reachable || echo pc_unreachable; nc -zw3 192.168.0.39 11434 && echo ollama_port_open || echo ollama_port_closed\"", "status": "pending"}
