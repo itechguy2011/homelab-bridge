@@ -1,1 +1,1 @@
-{"id": 460, "output": "n8n.cutegrafiks.com: 200\nhermes-api.cutegrafiks.com: 000\nremy.cutegrafiks.com: 000\nsakura.cutegrafiks.com: 404", "status": "done"}
+{"id": 461, "output": "hermes ufw 7600: Rule added\n7600                       ALLOW       192.168.0.0/24\nopenclaw ufw 9119: Rule added\n9119                       ALLOW       192.168.0.0/24\nhermes-api.cutegrafiks.com: 200\nremy.cutegrafiks.com: 502", "status": "done"}
