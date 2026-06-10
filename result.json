@@ -1,1 +1,1 @@
-{"id": 388, "output": "/home/jose/claude-poller.sh: eval: line 16: unexpected EOF while looking for matching `\"'", "status": "done"}
+{"id": 389, "output": "{\n  \"enabled\": true,\n  \"botToken\": \"8993450718:AAEohhXQGCPXJse6u6IKjrcpZiZ_hLyragc\",\n  \"dmPolicy\": \"allowlist\",\n  \"allowFrom\": [\n    \"8869156588\"\n  ],\n  \"groupAllowFrom\": [\n    \"-1003934415467\"\n  ]\n}", "status": "done"}
