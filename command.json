@@ -1,1 +1,1 @@
-{"id": 223, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"head -80 /home/jose/.npm-global/lib/node_modules/openclaw/dist/extensions/telegram/contract-api.js\"", "status": "pending"}
+{"id": 224, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"python3 -c \"import json; d=json.load(open(\\\"/home/jose/.openclaw/openclaw.json.bak.1\\\")); print(json.dumps(d.get(\\\"channels\\\",{}), indent=2))\" 2>/dev/null | head -60\"", "status": "pending"}
