@@ -1,1 +1,1 @@
-{"id": 331, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"curl -s https://api.telegram.org/bot8849049212:AAH2CHM_CDLDeTLfVxw7UGz5aO1weVBdnpw/getWebhookInfo\"", "status": "pending"}
+{"id": 332, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"sudo journalctl -u hermes-gateway --since -5min --no-pager -o short-precise 2>/dev/null | grep -v \"^--\" | tail -20\"", "status": "pending"}
