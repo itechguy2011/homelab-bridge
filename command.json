@@ -1,1 +1,1 @@
-{"id": 443, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo journalctl -u cloudflared --since -3min --no-pager 2>/dev/null | grep -E 'ingress|route|tunnel|INF' | tail -20\"", "status": "pending"}
+{"id": 444, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo journalctl -u cloudflared -n 50 --no-pager 2>/dev/null | tail -30\"", "status": "pending"}
