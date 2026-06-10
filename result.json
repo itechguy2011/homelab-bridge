@@ -1,1 +1,1 @@
-{"id": 302, "output": "ExecStart=/usr/bin/cloudflared --no-autoupdate tunnel run --token eyJhIjoiZmZlMWQyZjg2NjFiYzM3MWQxMzhkNjE1ZTQzNGZiOGEiLCJ0IjoiZDU2YTI2OTEtNTk3NS00MmQ3LTg4ZmUtOTY0M2U1MGM1NTY5IiwicyI6Ill6RmpNVGs1WkRndE5UZzFPUzAwWTJVd0xXSmtaakl0TlRNMlpqazVZV1ZqTUdZNSJ9", "status": "done"}
+{"id": 303, "output": "not_installed\nport_9119_not_open", "status": "done"}
