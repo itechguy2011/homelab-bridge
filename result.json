@@ -1,1 +1,1 @@
-{"id": 410, "output": "Total workflows: 2\n  - XbvpogtXGSdFMnZN: My workflow (active: False)\n  - fAPIDDtOAZi9vwt8: Claude SSH Bridge (active: True)", "status": "done"}
+{"id": 411, "output": "Traceback (most recent call last):\n  File \"<stdin>\", line 5, in <module>\nNameError: name 'true' is not defined. Did you mean: 'True'?", "status": "done"}
