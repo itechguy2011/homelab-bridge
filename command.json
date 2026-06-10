@@ -1,1 +1,1 @@
-{"id": 385, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"journalctl --user -u openclaw-gateway -n 30 --no-pager 2>/dev/null | grep -E -i 'error|warn|telegram|ollama|model|timeout|message|chat' | tail -20\"", "status": "pending"}
+{"id": 386, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.202 \"systemctl is-active hermes-gateway && tail -40 /tmp/hermes.log\"", "status": "pending"}
