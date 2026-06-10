@@ -1,1 +1,1 @@
-{"id": 382, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"curl -s http://192.168.0.39:11434/api/tags | python3 -c \\\"import sys,json; d=json.load(sys.stdin); print([m['name'] for m in d.get('models',[])])\\\"", "status": "pending"}
+{"id": 383, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"curl -s http://192.168.0.39:11434/api/tags\"", "status": "pending"}
