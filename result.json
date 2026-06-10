@@ -1,1 +1,1 @@
-{"id": 200, "output": "  File \"/tmp/fix_telegram2.py\", line 9\n    old = 'telegram:\n          ^\nSyntaxError: unterminated string literal (detected at line 9)", "status": "done"}
+{"id": 201, "output": "done", "status": "done"}
