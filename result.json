@@ -1,1 +1,1 @@
-{"id": 340, "output": "-- No entries --", "status": "done"}
+{"id": 341, "output": "current ExecStart:\n  ExecStart=/home/jose/.hermes/hermes-agent/venv/bin/python -m hermes_cli.main gateway run --replace\nExecStart wrapped with log redirect\nstatus: active\nlog tail: ", "status": "done"}
