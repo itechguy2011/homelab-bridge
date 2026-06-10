@@ -1,1 +1,1 @@
-{"id": 441, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo systemctl restart cloudflared && sleep 8 && systemctl is-active cloudflared\"", "status": "pending"}
+{"id": 442, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.191 \"sudo journalctl -u cloudflared --since -2min --no-pager | tail -20\"", "status": "pending"}
