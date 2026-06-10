@@ -1,1 +1,1 @@
-{"id": 375, "output": "  File \"/tmp/sedfix.py\", line 5\n    cmd = (\n          ^\nSyntaxError: '(' was never closed", "status": "done"}
+{"id": 377, "output": "already_set\ntelegram:\n  reactions: false\n  reply_to_mode: \"all\"\n  channel_prompts: {}\n  allowed_chats: '-1003934415467'\nmattermost:\n  require_mention: true\n  free_response_channels: ''\n  allowed_channels: ''\n  channel_prompts: {}\nmatrix:\n\nactive", "status": "done"}
