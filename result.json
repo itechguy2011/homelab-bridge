@@ -1,1 +1,1 @@
-{"id": 405, "output": "Created symlink '/etc/systemd/system/multi-user.target.wants/hermes-api.service' \u2192 '/etc/systemd/system/hermes-api.service'.\nscript written\nservice written\nhermes-api: active\nhealth check: {\"status\": \"active\", \"gateway\": \"hermes\"}", "status": "done"}
+{"id": 406, "output": "n8n config dirs: /home/jose/.n8n\n\nMountAPIVFS=no\nKeyringMode=private", "status": "done"}
