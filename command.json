@@ -1,1 +1,1 @@
-{"id": 314, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"curl -s https://api.telegram.org/bot8993450718:AAEohhXQGCPXJse6u6IKjrcpZiZ_hLyragc/getMe\"", "status": "pending"}
+{"id": 315, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.199 \"journalctl --user -u openclaw-gateway -n 10 --no-pager | grep -i telegram | tail -5\"", "status": "pending"}
