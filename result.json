@@ -1,1 +1,1 @@
-{"id": 572, "output": "telegram channel DISABLED, backup /home/jose/.openclaw/openclaw.json.bak-spam-20260610-230836\nenabled now: False\nrestarted\nactive", "status": "done"}
+{"id": 573, "output": "=== Confirm Remy telegram is silent now (no Conflict, no spam) ===\n--- conflict count:\n0\n\n=== Investigate the tainted token: what does getMe reveal? ===\n{\n    \"ok\": false,\n    \"error_code\": 401,\n    \"description\": \"Unauthorized\"\n}\n\n=== Check getUpdates directly - is SOMEONE ELSE polling? (Conflict = yes) ===\nok: False | desc: Unauthorized", "status": "done"}
