@@ -1,1 +1,1 @@
-{"id": 639, "output": "=== Try sendMessage to group ===\n{\n    \"ok\": false,\n    \"error_code\": 400,\n    \"description\": \"Bad Request: chat not found\"\n}\n\n=== Check if bot is actually in the group ===\nok: False | status: None | error: Bad Request: chat not found", "status": "done"}
+{"id": 640, "output": "=== Get group info via username ===\nid: -1003955222520\ntitle: DevilDollzLLC\ntype: supergroup\nusername: devildollzllc\n\n=== Also try Remy token ===\nid: -1003955222520\ntype: supergroup", "status": "done"}
