@@ -1,1 +1,1 @@
-{"id": 632, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no -o ConnectTimeout=10 jose@192.168.0.202 \"echo CnRhaWwgLTE1IC9ob21lL2pvc2UvLmhlcm1lcy9sb2dzL2dhdGV3YXkubG9nCg== | base64 -d | bash\"", "status": "pending"}
+{"id": 633, "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no -o ConnectTimeout=10 jose@192.168.0.202 \"echo dGFpbCAtOCAvaG9tZS9qb3NlLy5oZXJtZXMvbG9ncy9nYXRld2F5LmxvZw== | base64 -d | bash\"", "status": "pending"}
