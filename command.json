@@ -1,1 +1,1 @@
-{"id": 1781567782, "target": "vm-claude-hub", "command": "systemctl status gitea --no-pager; echo \"---\"; journalctl -u gitea -n 50 --no-pager; echo \"---\"; ss -tlnp | grep 3000"}
+{"id": 1781567840, "target": "vm-claude-hub", "command": "systemctl status gitea --no-pager; echo \"---PORTS---\"; ss -tlnp | grep 3000; echo \"---DOCKER---\"; docker ps 2>/dev/null | grep -i gitea || echo \"no docker\""}
