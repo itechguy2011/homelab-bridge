@@ -1,1 +1,1 @@
-{"id": 759, "status": "pending", "target": "vm-claude-hub", "command": "echo POLLER_ALIVE && date && cat /home/jose/.poller_last_id"}
+{"id": 760, "status": "pending", "target": "vm-claude-hub", "command": "echo POLLER_ALIVE && date && cat /home/jose/.poller_last_id"}
