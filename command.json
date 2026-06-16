@@ -1,1 +1,1 @@
-{"id": 690, "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/claude-poller.sh | head -5 && echo LAST_ID=$(cat /home/jose/.poller_last_id 2>/dev/null || echo NOT_SET) && systemctl status claude-poller --no-pager | head -8"}
+{"id": 691, "status": "pending", "target": "vm-claude-hub", "command": "echo ALIVE && date && systemctl is-active gitea"}
