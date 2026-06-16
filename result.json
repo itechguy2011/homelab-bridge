@@ -1,1 +1,1 @@
-{"id": 692, "output": "=== GITEA ADMIN USERS ===\nID   Username Email                  IsActive IsAdmin 2FA\n1    jose     itechguy2011@gmail.com true     true    false\n=== GITEA VERSION ===\ngitea version 1.26.2 built with go1.26.3-X:jsonv2 : bindata, sqlite, sqlite_unlock_notify\n=== CHECK EXISTING REPOS ===\n=== GIT AVAILABLE ===\n/usr/bin/git\ngit version 2.47.3", "status": "done"}
+{"id": 693, "output": "=== CREATE GITEA API TOKEN ===\n044bcb952fed5555ef1bc32c0449e010f9a3f9a6\n=== DONE ===", "status": "done"}
