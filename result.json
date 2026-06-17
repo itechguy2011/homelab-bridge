@@ -1,1 +1,1 @@
-{"id": 860, "output": "SYNTAX OK on VM\n1226 /home/jose/moreno-ai/runtime/environment_runtime.py", "status": "done"}
+{"id": 861, "output": "Traceback (most recent call last):\n  File \"<string>\", line 7, in <module>\n    from environment_runtime import (\n    ...<7 lines>...\n    )\nImportError: cannot import name '_parse_environment' from 'environment_runtime' (/home/jose/moreno-ai/runtime/environment_runtime.py)", "status": "done"}
