@@ -1,1 +1,0 @@
-{"id": "1098", "status": "pending", "target": "vm-claude-hub", "command": "sudo chown -R jose:jose /home/jose/gitea/data/git && cd /home/jose/moreno-ai && git push origin main && git push origin Phase9F2-vmMemoryJoined && echo PUSH_OK && git log --oneline -2"}
