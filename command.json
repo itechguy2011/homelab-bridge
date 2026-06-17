@@ -1,0 +1,1 @@
+{"id": "1100", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && echo __pycache__/ >> .gitignore && echo *.pyc >> .gitignore && git rm -r --cached runtime/__pycache__/ 2>/dev/null || true && git add .gitignore && git diff --cached --quiet || git commit -m \"chore: ignore pycache\" && git push origin main && echo GITIGNORE_DONE"}
