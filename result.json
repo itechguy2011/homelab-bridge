@@ -1,1 +1,1 @@
-{"id": 1056, "output": "jose ALL=(ALL) NOPASSWD:ALL\nSETUP_OK", "status": "done"}
+{"id": 1057, "output": "KEY_AUTH_OK\nroot", "status": "done"}
