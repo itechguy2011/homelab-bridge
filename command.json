@@ -1,1 +1,1 @@
-{"id": "1137", "status": "pending", "target": "vm-claude-hub", "command": "ls /home/jose/moreno-ai/docs/failover/ && wc -l /home/jose/moreno-ai/docs/failover/*.md"}
+{"id": "1138", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/moreno-ai/docs/failover/01-bridge-spec.md"}
