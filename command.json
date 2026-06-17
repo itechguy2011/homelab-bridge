@@ -1,1 +1,1 @@
-{"id": "1087", "status": "pending", "target": "vm-claude-hub", "command": "ss -tlnp | grep 3000; curl -s http://localhost:3000/api/v1/version; systemctl is-active gitea"}
+{"id": "1088", "status": "pending", "target": "vm-claude-hub", "command": "ss -tlnp | grep -E \"3000|gitea\"; grep -E \"^HTTP_PORT|^HTTP_ADDR|^ROOT_URL\" /home/jose/gitea/data/gitea/conf/app.ini 2>/dev/null; grep -E \"^HTTP_PORT|^HTTP_ADDR\" /home/git/gitea/data/gitea/conf/app.ini 2>/dev/null; find /home /etc /opt -name app.ini 2>/dev/null | head -5"}
