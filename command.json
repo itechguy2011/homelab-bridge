@@ -1,1 +1,1 @@
-{"id": "938", "status": "pending", "target": "vm-claude-hub", "command": "ping -c 2 192.168.0.118 && (nc -z -w3 192.168.0.118 22 && echo SSH_PORT_OPEN || echo SSH_PORT_CLOSED) && echo DONE"}
+{"id": "939", "status": "pending", "target": "vm-claude-hub", "command": "sshpass -p 'jose' ssh -o StrictHostKeyChecking=no -o PasswordAuthentication=yes -o NumberOfPasswordPrompts=1 jose@192.168.0.118 'whoami && hostname && uname -a && cat /etc/debian_version && df -h / && echo SSH_SUCCESS' 2>&1"}
