@@ -1,1 +1,1 @@
-{"id": "1221", "output": "Created credential: id=7kLSJxXgrHsdzlXm name=Bridge Execute Secret type=httpHeaderAuth\n---\nSSH credential: None type=None\n", "status": "done"}
+{"id": "1222", "output": "Script created:\n-rwxr-xr-x 1 jose jose 792 Jun 17 18:33 /home/jose/bin/bridge-route.sh\nTest:\nvm-claude-hub\nWed Jun 17 06:33:54 PM EDT 2026\n", "status": "done"}
