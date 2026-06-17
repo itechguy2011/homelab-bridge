@@ -1,1 +1,1 @@
-{"id": 852, "output": "Traceback (most recent call last):\n  File \"<string>\", line 18, in <module>\n    identity = load_agent(name)\n  File \"/home/jose/moreno-ai/runtime/agent_identity_loader.py\", line 260, in load_agent\n    \"environment_awareness\": _parse_environment(\n                             ^^^^^^^^^^^^^^^^^^\nNameError: name '_parse_environment' is not defined", "status": "done"}
+{"id": 853, "output": "1\n260:        \"environment_awareness\": _parse_environment(", "status": "done"}
