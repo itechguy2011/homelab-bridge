@@ -1,1 +1,1 @@
-{"id": "1082", "status": "pending", "target": "vm-claude-hub", "command": "sudo systemctl start gitea && sleep 3 && systemctl is-active gitea && curl -sf http://localhost:3000/api/v1/version && echo GITEA_RESTARTED"}
+{"id": "1083", "status": "pending", "target": "vm-claude-hub", "command": "sudo systemctl enable gitea && sleep 5 && curl -sf http://localhost:3000/api/v1/version && echo GITEA_OK"}
