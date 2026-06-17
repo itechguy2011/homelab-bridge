@@ -1,1 +1,1 @@
-{"id": 943, "output": "=== INSTALLING SSH KEY ===\nOK_KEY\n=== SUDO ===\nsudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper\nsudo: a password is required", "status": "done"}
+{"id": 944, "output": "bash: -c: line 2: syntax error near unexpected token `|'\nbash: -c: line 2: `echo M3gh@n!97& | sudo -S bash -c \"'", "status": "done"}
