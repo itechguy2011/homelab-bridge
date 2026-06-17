@@ -1,1 +1,1 @@
-{"id": 930, "output": "[sudo] password for jose: root\nSUDO_OK", "status": "done"}
+{"id": 932, "output": "=== Phase A: Full setup ===\nsudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper\nsudo: a password is required", "status": "done"}
