@@ -1,1 +1,1 @@
-{"id": "1065", "output": "reboot-sent", "status": "done"}
+{"id": 1066, "output": "POLLER_BACK_ONLINE\n 14:03:53 up 2 min,  1 user,  load average: 1.23, 0.68, 0.27\njose         962  0.0  0.0   7076  3484 ?        Ss   14:01   0:00 /bin/bash /home/jose/claude-poller.sh\njose        3095  0.0  0.0   7076  1940 ?        S    14:03   0:00 /bin/bash /home/jose/claude-poller.sh\njose        3096  0.0  0.0   7076  2120 ?        S    14:03   0:00 /bin/bash /home/jose/claude-poller.sh", "status": "done"}
