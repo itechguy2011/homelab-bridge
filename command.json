@@ -1,1 +1,1 @@
-{"id": "922", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/.ssh/n8n_bridge.pub"}
+{"id": "923", "status": "pending", "target": "vm-claude-hub", "command": "PUBKEY='ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKwnvuMIp7WDtCaT1d4QMLMX0GNiD+w7ENaqdcCY49W1 n8n-bridge' && sshpass -p 'M3gh@n!97&' ssh -o StrictHostKeyChecking=no jose@192.168.0.118 'mkdir -p ~/.ssh && echo \"'\"'\"\"'\"'\" >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys && echo KEY_INSTALLED' 2>&1 || echo 'SSHPASS_FAILED'"}
