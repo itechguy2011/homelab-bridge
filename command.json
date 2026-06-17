@@ -1,1 +1,1 @@
-{"id": "1053", "status": "pending", "target": "vm-claude-hub", "command": "sudo arp-scan --localnet 2>/dev/null | grep -v \"^$\" | head -40; echo \"---ARP TABLE---\"; arp -n | head -30"}
+{"id": "1054", "status": "pending", "target": "vm-claude-hub", "command": "sshpass -p jose ssh -o StrictHostKeyChecking=no jose@192.168.0.205 \"hostname && ip a show | grep -E \"inet \" && cat /etc/os-release | head -4\" 2>&1"}
