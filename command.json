@@ -1,1 +1,1 @@
-{"id": "921", "status": "pending", "target": "vm-claude-hub", "command": "ssh-keyscan -t ed25519 192.168.0.118 2>/dev/null && ping -c2 192.168.0.118 && echo REACHABLE"}
+{"id": "922", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/.ssh/n8n_bridge.pub"}
