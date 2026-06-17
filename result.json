@@ -1,1 +1,1 @@
-{"id": "1206", "output": "UPDATED\n--- wrong secret ---\n\n--- invalid VM ---\n", "status": "done"}
+{"id": "1207", "output": "{\"status\":\"ok\"}\nbridge-execute\n---\n--- wrong secret test ---\n\n--- invalid VM test ---\n", "status": "done"}
