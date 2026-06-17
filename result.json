@@ -1,1 +1,1 @@
-{"id": "1072", "output": "POLLER_V2_DEPLOYED", "status": "done"}
+{"id": "1073", "output": "POLLER_V2_CONFIRMED\njose       40351  0.0  0.0   7208  3504 ?        Ss   15:21   0:00 /bin/bash /home/jose/claude-poller.sh\njose       40549  0.0  0.0   7208  1836 ?        S    15:21   0:00 /bin/bash /home/jose/claude-poller.sh\njose       40550  0.0  0.0   7208  2164 ?        S    15:21   0:00 /bin/bash /home/jose/claude-poller.sh\n", "status": "done"}
