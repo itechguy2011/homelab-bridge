@@ -1,1 +1,1 @@
-{"id": "1091", "status": "pending", "target": "vm-claude-hub", "command": "sleep 8 && systemctl is-active gitea && ss -tlnp | grep 3000 && curl -sf http://localhost:3000/api/v1/version && echo GITEA_LIVE"}
+{"id": "1092", "status": "pending", "target": "vm-claude-hub", "command": "cat /etc/systemd/system/gitea.service | grep -E \"User|Group|HOME|Exec\"; journalctl -u gitea -n 5 --no-pager 2>/dev/null | tail -5"}
