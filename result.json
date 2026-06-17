@@ -1,1 +1,1 @@
-{"id": "1177", "output": "Activated: 1 rows updated\nCleared webhook_entity: 0 rows\nWebhook node id: db0d670c-42f6-4434-8f7c-e512b26ab411\nWebhook node webhookId: 07a1c23f-59d0-4fdf-a7f2-2b426a3330d3\ntypeVersion: 2.1\nDB update done\n", "status": "done"}
+{"id": "1178", "output": "{\"status\":\"ok\"}\n---\n{\"code\":404,\"message\":\"The requested webhook \\\"POST bridge-execute\\\" is not registered.\",\"hint\":\"The workflow must be active for a production URL to run successfully. You can activate the workflow usi\n", "status": "done"}
