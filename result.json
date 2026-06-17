@@ -1,1 +1,1 @@
-{"id": "1189", "output": "exec id=623 status=error finished=False start=2026-06-17T21:51:07 stop=2026-06-17T21:51:07\nexec id=622 status=error finished=False start=2026-06-17T21:47:54 stop=2026-06-17T21:47:54\nexec id=621 status=error finished=False start=2026-06-17T21:47:32 stop=2026-06-17T21:47:32\n---\n{\"message\":\"request/params/id must be number\"}\nLatest exec ID: 623\n", "status": "done"}
+{"id": "1190", "output": "Traceback (most recent call last):\n  File \"<stdin>\", line 9, in <module>\nsqlite3.OperationalError: no such column: data\n", "status": "done"}
