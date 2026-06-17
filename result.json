@@ -1,1 +1,1 @@
-{"id": 934, "output": "sudo: unable to resolve host vm-ecosystem: Temporary failure in name resolution\n[sudo] password for jose: HOSTS_FIXED\nPASS_SET\nroot\nSUDO_CLEAN", "status": "done"}
+{"id": 925, "output": "Permission denied, please try again.\r", "status": "done"}
