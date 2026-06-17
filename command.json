@@ -1,1 +1,1 @@
-{"id": "933", "status": "pending", "target": "vm-claude-hub", "command": "sleep 90 && nc -z -w 5 192.168.0.118 22 && echo PORT_OPEN || echo PORT_STILL_CLOSED"}
+{"id": "934", "status": "pending", "target": "vm-claude-hub", "command": "nmap -p 22,2222,80,443,8080,3000 192.168.0.118 2>/dev/null | grep -E 'PORT|open|closed|filtered' | head -15"}
