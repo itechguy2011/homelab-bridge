@@ -1,1 +1,1 @@
-{"id": "918", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && ls docs/infra* docs/current* docs/phase-9f* 2>/dev/null && echo '---PHASE9F---' && cat docs/phase-9f-infrastructure-reconciliation.md 2>/dev/null | head -60 && echo '---CURRENT-INVENTORY---' && cat docs/current-service-inventory.md 2>/dev/null | head -60"}
+{"id": "919", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && cat docs/infrastructure-authority-map.md && echo '---SERVICE-INV---' && cat docs/current-service-inventory.md"}
