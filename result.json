@@ -1,1 +1,1 @@
-{"id": 936, "output": "port 22: closed\nport 2222: closed\nport 22000: closed", "status": "done"}
+{"id": 938, "output": "PING 192.168.0.118 (192.168.0.118) 56(84) bytes of data.\n64 bytes from 192.168.0.118: icmp_seq=1 ttl=64 time=0.188 ms\n64 bytes from 192.168.0.118: icmp_seq=2 ttl=64 time=0.208 ms\n\n--- 192.168.0.118 ping statistics ---\n2 packets transmitted, 2 received, 0% packet loss, time 1007ms\nrtt min/avg/max/mdev = 0.188/0.198/0.208/0.010 ms\nSSH_PORT_OPEN\nDONE", "status": "done"}
