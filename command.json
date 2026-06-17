@@ -1,1 +1,1 @@
-{"id": "1058", "status": "pending", "target": "vm-claude-hub", "command": "grep -n \"vm-memory\\|192.168.0.205\" /home/jose/claude-poller.sh 2>/dev/null || echo NOT_IN_POLLER; grep -n \"192.168.0.\" /home/jose/claude-poller.sh | head -20"}
+{"id": "1059", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/claude-poller.sh"}
