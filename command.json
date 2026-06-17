@@ -1,1 +1,1 @@
-{"id": "1081", "status": "pending", "target": "vm-memory", "command": "ping -c 2 192.168.0.191 && echo PING_OK; curl -sv http://192.168.0.191:3000 2>&1 | head -20; curl -sf http://192.168.0.191:3000/api/v1/version 2>&1 | head -5"}
+{"id": "1082", "status": "pending", "target": "vm-claude-hub", "command": "sudo systemctl start gitea && sleep 3 && systemctl is-active gitea && curl -sf http://localhost:3000/api/v1/version && echo GITEA_RESTARTED"}
