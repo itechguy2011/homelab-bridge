@@ -1,1 +1,1 @@
-{"id": "1054", "status": "pending", "target": "vm-claude-hub", "command": "sshpass -p jose ssh -o StrictHostKeyChecking=no jose@192.168.0.205 \"hostname && ip a show | grep -E \"inet \" && cat /etc/os-release | head -4\" 2>&1"}
+{"id": "1055", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/.ssh/n8n_bridge.pub 2>/dev/null || echo NO_KEY_FOUND"}
