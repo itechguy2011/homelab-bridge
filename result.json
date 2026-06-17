@@ -1,1 +1,1 @@
-{"id": 961, "output": "ALIVE_961", "status": "done"}
+{"id": 962, "output": "2 packets transmitted, 0 received, 100% packet loss, time 1012ms\n\n2 packets transmitted, 2 received, 0% packet loss, time 1005ms\nrtt min/avg/max/mdev = 0.225/0.304/0.383/0.079 ms\n.118_SSH_CLOSED\n.203_SSH_OPEN", "status": "done"}
