@@ -1,1 +1,1 @@
-{"id": 1035, "output": "SCP_KEY_OK", "status": "done"}
+{"id": 1036, "output": "Cloning into '/home/jose/moreno-ai'...\nCLONE_OK\nagent_identity_loader.py\nenvironment_runtime.py\n__init__.py\njournal_runtime.py\nmemory_runtime.py\nperspective_engine.py\n__pycache__\nrelationship_runtime.py\nshared_event_runtime.py\nstory_runtime.py\nPython 3.13.5\nAgents: ['chatgpt', 'claude', 'homelab-agent', 'larry', 'megabyte', 'remy', 'sakura', 'sentinel']\nStream events: 3\nSMOKE_OK", "status": "done"}
