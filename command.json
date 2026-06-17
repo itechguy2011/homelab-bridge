@@ -1,1 +1,1 @@
-{"id": "1131", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/claude-poller.sh && echo ===SEPARATOR=== && cat /etc/systemd/system/claude-poller.service && echo ===SEPARATOR=== && cat /home/jose/moreno-ai/runtime_registry.yaml"}
+{"id": "1132", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/claude-poller.sh"}
