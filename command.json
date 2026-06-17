@@ -1,1 +1,1 @@
-{"id": "873", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && git add docs/shared-event-implementation-plan.md && git commit -m 'Phase 9E.6 \u2014 implementation plan (awaiting Jose approval)' && git push origin main && git push github main && echo 'DONE'"}
+{"id": "874", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && mkdir -p memory/shared-events/{stream,workspaces,intake,archive} shared-events/templates && echo 'DIRS CREATED' && ls memory/shared-events/ && ls shared-events/"}
