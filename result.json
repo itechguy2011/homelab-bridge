@@ -1,1 +1,1 @@
-{"id": 991, "output": "remote: . Processing 1 references        \nremote: Processed 1 references in total        \nTo http://localhost:3000/jose/Moreno-AI\n * [new tag]         Phase9F2-InfrastructureAuthorityMap -> Phase9F2-InfrastructureAuthorityMap\nTAG_OK", "status": "done"}
+{"id": 992, "output": "Cloning into '/home/jose/moreno-ai'...\nfatal: could not read Username for 'http://192.168.0.191:3000': No such device or address", "status": "done"}
