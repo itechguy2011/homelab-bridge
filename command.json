@@ -1,1 +1,1 @@
-{"id": "1065", "status": "pending", "target": "vm-claude-hub", "command": "sudo reboot"}
+{"id": "1066", "status": "pending", "target": "vm-claude-hub", "command": "echo POLLER_BACK_ONLINE && uptime && ps aux | grep poller | grep -v grep | grep -v kworker"}
