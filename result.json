@@ -1,1 +1,1 @@
-{"id": "1117", "output": "0.1.6\nNATS_CLI_OK\n", "status": "done"}
+{"id": "1118", "output": "  File \"<string>\", line 1\n    import sys,json; d=json.load(sys.stdin); print(server:, d[server_name], version:, d[version])\n                                                         ^\nSyntaxError: invalid syntax\n15:58:52 Published 20 bytes to \"ecosystem.test\"\nPUBSUB_TEST_DONE\n", "status": "done"}
