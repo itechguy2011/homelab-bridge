@@ -1,1 +1,1 @@
-{"id": "1155", "output": "PAT file created:\ntotal 12\ndrwx------  2 jose jose 4096 Jun 17 17:29 .\ndrwx-----x 14 jose jose 4096 Jun 17 17:29 ..\n-rw-------  1 jose jose   41 Jun 17 17:29 github_bridge_pat\nghp_V0bFvD...\n", "status": "done"}
+{"id": "1156", "output": "Workflow size: 9406\nCREATED id=FLuUDg0bWUtxH6BR name=bridge-execute active=False\nWebhook path: /webhook/bridge-execute\n", "status": "done"}
