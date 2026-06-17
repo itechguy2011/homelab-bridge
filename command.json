@@ -1,1 +1,1 @@
-{"id": "853", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && grep -c '_parse_environment' runtime/agent_identity_loader.py && grep -n 'def _parse_environment\\|_parse_environment' runtime/agent_identity_loader.py | head -5"}
+{"id": "854", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && base64 -w 0 runtime/agent_identity_loader.py"}
