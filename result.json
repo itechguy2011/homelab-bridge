@@ -1,1 +1,1 @@
-{"id": "1203", "output": "Update: ok id=Ulo3hXe81o1Lv8J1\n--- Testing minimal (wrong secret) ---\n{\"ok\":false,\"error\":\"bad secret\",\"got\":\"wrong\"}\n--- Testing minimal (correct secret) ---\n{\"ok\":true,\"vm\":\"vm-claude-hub\",\"cmd\":\"hostname\",\"ts\":\"2026-06-17T22:16:40.364Z\"}\n", "status": "done"}
+{"id": "1204", "output": "Updated\n---  test ---\n", "status": "done"}
