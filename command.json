@@ -1,1 +1,1 @@
-{"id": "961", "status": "pending", "target": "vm-claude-hub", "command": "echo ALIVE_961"}
+{"id": "962", "status": "pending", "target": "vm-claude-hub", "command": "ping -c 2 -W 2 192.168.0.118 2>&1 | tail -2 && ping -c 2 -W 2 192.168.0.203 2>&1 | tail -2 && (nc -z -w 3 192.168.0.118 22 && echo .118_SSH_OPEN || echo .118_SSH_CLOSED) && (nc -z -w 3 192.168.0.203 22 && echo .203_SSH_OPEN || echo .203_SSH_CLOSED)"}
