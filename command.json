@@ -1,1 +1,1 @@
-{"id": "1052", "status": "pending", "target": "vm-claude-hub", "command": "nmap -sn 192.168.0.1-254 2>/dev/null | grep -E \"report for\" | awk \"{print \\$5}\" | sort -t. -k4 -n"}
+{"id": "1053", "status": "pending", "target": "vm-claude-hub", "command": "sudo arp-scan --localnet 2>/dev/null | grep -v \"^$\" | head -40; echo \"---ARP TABLE---\"; arp -n | head -30"}
