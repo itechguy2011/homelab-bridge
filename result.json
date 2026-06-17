@@ -1,1 +1,1 @@
-{"id": "1159", "output": "{\"message\":\"PATCH method not allowed\"}\n---\nactive=False\n", "status": "done"}
+{"id": "1160", "output": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ResponseError: Failed to parse request body<br> &nbsp; &nbsp;at parseBody (/usr/lib/node_modules/n8n/src/middlewares/body-parser.ts:76:10)<br> &nbsp; &nbsp;at processTicksAndRejections (node:inter\n---\n{\"message\":\"not found\"}\n---\n{\"status\":\"error\",\"message\":\"Unauthorized\"}\n", "status": "done"}
