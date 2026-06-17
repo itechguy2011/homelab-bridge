@@ -1,1 +1,1 @@
-{"id": "1146", "output": "Found 2 credentials:\n  [BaHrr07lz1Hix9zh] Ollama account type=ollamaApi\n  [RIzubZQgcErsLYJG] SSH Private Key account type=sshPrivateKey\n", "status": "done"}
+{"id": "1147", "output": "Created cred id=mpEvF85sktxWqIw1 name=GitHub Bridge PAT\n", "status": "done"}
