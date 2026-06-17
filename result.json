@@ -1,1 +1,1 @@
-{"id": "937", "output": "unstick", "returncode": 0}
+{"id": 936, "output": "port 22: closed\nport 2222: closed\nport 22000: closed", "status": "done"}
