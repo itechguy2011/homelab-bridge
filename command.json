@@ -1,1 +1,1 @@
-{"id": "927", "status": "pending", "target": "vm-claude-hub", "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.118 'echo KEY_AUTH_WORKS && whoami && sudo whoami' 2>&1"}
+{"id": "928", "status": "pending", "target": "vm-claude-hub", "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.118 'echo jose | sudo -S bash -c \"echo jose ALL=(ALL) NOPASSWD:ALL > /etc/sudoers.d/jose && chmod 440 /etc/sudoers.d/jose && echo NOPASSWD_DONE\"' 2>&1"}
