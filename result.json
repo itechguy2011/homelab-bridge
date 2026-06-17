@@ -1,1 +1,1 @@
-{"id": "1195", "output": "=== SIMPLE TEST: wrong auth ===\n} [42 bytes data]\n< HTTP/1.1 200 OK\r\n< Content-Type: application/json; charset=utf-8\r\n< Vary: Accept-Encoding\r\n< Date: Wed, 17 Jun 2026 22:00:41 GMT\r\n< Connection: keep-alive\r\n< Keep-Alive: timeout=5\r\n< Transfer-Encoding: chunked\r\n< \r\n{ [5 bytes data]\n=== END ===\n", "status": "done"}
+{"id":"1195","output":"skip","status":"done"}
