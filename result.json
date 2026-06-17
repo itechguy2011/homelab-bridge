@@ -1,1 +1,1 @@
-{"id": "1102", "output": "0 3 * * * /opt/moreno-memory/scripts/nightly-backup.sh\nBACKUP_CRON_INSTALLED\n", "status": "done"}
+{"id": "1103", "output": "archive_indexes\naudit\nbackups\nconfigs\ncouncil_records\ndatabases\nembeddings\nindexes\njournal_indexes\nmemory_records\nrelationship_records\nscripts\nLIVE_BACKUP_OK\n", "status": "done"}
