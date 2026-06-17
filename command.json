@@ -1,1 +1,1 @@
-{"id": "1073", "status": "pending", "target": "vm-claude-hub", "command": "echo POLLER_V2_CONFIRMED && ps aux | grep claude-poller | grep -v grep | grep -v kworker"}
+{"id": "1074", "status": "pending", "target": "vm-claude-hub", "command": "echo SECOND_CMD_OK && uptime && cat /home/jose/.poller_last_id"}
