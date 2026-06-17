@@ -1,1 +1,1 @@
-{"id": "838", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && grep -n 'def load_agent\\|governance\\|\"files\"\\|validation\\|return {' runtime/agent_identity_loader.py | head -40"}
+{"id": "839", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && sed -n '240,278p' runtime/agent_identity_loader.py"}
