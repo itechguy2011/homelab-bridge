@@ -1,1 +1,1 @@
-{"id": "934", "status": "pending", "target": "vm-claude-hub", "command": "nmap -p 22,2222,80,443,8080,3000 192.168.0.118 2>/dev/null | grep -E 'PORT|open|closed|filtered' | head -15"}
+{"id": "935", "status": "pending", "target": "vm-claude-hub", "command": "nmap -sT --open 192.168.0.118 2>/dev/null | head -20 || nmap 192.168.0.118 2>/dev/null | head -20"}
