@@ -1,1 +1,1 @@
-{"id": "969", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && git push origin main && git push github main && git push origin --tags && git push github --tags && echo PUSH_OK"}
+{"id": "970", "status": "pending", "target": "vm-claude-hub", "command": "df -h /home/jose/moreno-ai && df -h /var/lib && ls -la /home/jose/moreno-ai/.git/ | head -10 && git -C /home/jose/moreno-ai gc --aggressive 2>&1 | tail -3 && git -C /home/jose/moreno-ai push origin main 2>&1 | tail -3 && echo PUSH_RESULT"}
