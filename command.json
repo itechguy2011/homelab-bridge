@@ -1,1 +1,1 @@
-{"id": "954", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/.poller_last_id && echo '---' && ps aux | grep claude-poller | grep -v grep && echo '---COMMAND---' && cat /home/jose/claude-poller.sh | head -60"}
+{"id": "955", "status": "pending", "target": "vm-claude-hub", "command": "echo '953' > /home/jose/.poller_last_id && cat /home/jose/.poller_last_id && echo LAST_ID_RESET"}
