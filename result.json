@@ -1,1 +1,1 @@
-{"id": "1185", "output": "status=error finished=False\nError: Module 'fs' is disallowed [line 2]\nNode: \nNode Bridge Logic error: {'level': 'error', 'tags': {}, 'description': None, 'lineNumber': 2, 'message': \"Module 'fs' is disallowed [line 2]\", 'stack': \"Error: Module 'fs' is disallowed\\n    at /usr/lib/node_modules/n8n/node_modules/@n8n/task-runner/dist/js-task-runner/require-resolver.js:16:27\\n    at VmCodeWrapper (evalma\n", "status": "done"}
+{"id": "1186", "output": "Service file updated\ndaemon-reload done\nprocess.env ok\n", "status": "done"}
