@@ -1,1 +1,1 @@
-{"id": 1000, "output": "", "status": "done"}
+{"id": 1001, "output": "agent_identity_loader: FAIL - module 'runtime.agent_identity_loader' has no attribute 'load_identity'\nmemory_runtime: FAIL - list_memories() got an unexpected keyword argument 'repo_root'\nshared_event_runtime: OK (3 events in stream)\nstory_runtime: OK (0 stories)\nenvironment_runtime: FAIL - too many values to unpack (expected 2)\n\nRESULT: 2/5 passed", "status": "done"}
