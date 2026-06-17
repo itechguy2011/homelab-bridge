@@ -1,1 +1,1 @@
-{"id": "848", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && python3 -c \"\nimport sys, json\nsys.path.insert(0, 'runtime')\nfrom agent_identity_loader import load_agent\nsakura = load_agent('sakura')\nenv = sakura.get('environment_awareness', 'KEY_MISSING')\nprint(json.dumps(env, indent=2))\n\""}
+{"id": "849", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && grep -n 'environment_awareness\\|subordinate_to\\|\"files\"' runtime/agent_identity_loader.py"}
