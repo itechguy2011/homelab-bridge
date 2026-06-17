@@ -1,1 +1,1 @@
-{"id": "926", "status": "pending", "target": "vm-claude-hub", "command": "sshpass -p 'jose' ssh -o StrictHostKeyChecking=no -o PasswordAuthentication=yes root@192.168.0.118 'whoami && hostname && echo SSH_OK' 2>&1; sshpass -p 'jose' ssh -o StrictHostKeyChecking=no -o PasswordAuthentication=yes debian@192.168.0.118 'whoami && hostname && echo SSH_OK' 2>&1 | head -3"}
+{"id": "927", "status": "pending", "target": "vm-claude-hub", "command": "ssh -o StrictHostKeyChecking=no -o BatchMode=yes jose@192.168.0.118 echo test 2>&1 | head -5"}
