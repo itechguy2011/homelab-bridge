@@ -1,1 +1,1 @@
-{"id": 850, "output": "        },\n        \"governance\": {\n            \"authority_scope\": soul.get(\"authority_scope\", \"\"),\n            \"permissions\":     soul.get(\"permissions\", []),\n            \"subordinate_to\":  \"Jose Moreno\",\n        },\n        \"files\": {\n            **{k: str(v) for k, v in fp.items()},\n            \"all_present\": len(missing) == 0,\n            \"missing\":     missing,\n        },\n        \"validation\": {", "status": "done"}
+{"id": 851, "output": "CHANGE 3 APPLIED\nSYNTAX OK\nLines: 563", "status": "done"}
