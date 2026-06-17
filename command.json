@@ -1,1 +1,1 @@
-{"id": "859", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && mkdir -p memory/environment/state-snapshots memory/environment/gap-reports memory/environment/presence-log memory/environment/events && echo 'DIRS CREATED' && ls memory/environment/"}
+{"id": "859", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && ls runtime/ && echo '---' && ls memory/ && echo '---' && ls memory/environment/ 2>/dev/null || echo 'memory/environment does not exist yet'"}
