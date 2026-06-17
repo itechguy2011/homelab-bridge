@@ -1,1 +1,1 @@
-{"id": "1086", "status": "pending", "target": "vm-memory", "command": "curl -sf http://192.168.0.191:3000/api/v1/version && echo GITEA_REACHABLE_FROM_VM_MEMORY"}
+{"id": "1087", "status": "pending", "target": "vm-claude-hub", "command": "ss -tlnp | grep 3000; curl -s http://localhost:3000/api/v1/version; systemctl is-active gitea"}
