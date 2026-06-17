@@ -1,1 +1,1 @@
-{"id": "1108", "output": "NATS_FILES_WRITTEN\nconfig\ndocker-compose.yml\n", "status": "done"}
+{"id": "1109", "output": "validating /opt/docker/stacks/infra/nats/docker-compose.yml: version must be a string\nvalidating /opt/docker/stacks/infra/nats/docker-compose.yml: version must be a string\n", "status": "done"}
