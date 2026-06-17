@@ -1,1 +1,1 @@
-{"id": 1017, "output": "SCRIPT_WRITTEN", "status": "done"}
+{"id": 1018, "output": "0 2 * * * /home/jose/moreno-ai-backup.sh >> /home/jose/moreno-ai-backup.log 2>&1\nCRON_INSTALLED", "status": "done"}
