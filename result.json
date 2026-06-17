@@ -1,1 +1,1 @@
-{"id": "1085", "output": "User=git\nactive\n  File \"<string>\", line 1\n    import sys,json; print(json.load(sys.stdin).get(version,?))\n                                                            ^\nSyntaxError: invalid syntax\n", "status": "done"}
+{"id": "1086", "output": "\n", "status": "done"}
