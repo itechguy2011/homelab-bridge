@@ -1,1 +1,1 @@
-{"id": "1106", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && git pull origin main && git tag Phase9F3-PreNATS-Baseline && git push origin Phase9F3-PreNATS-Baseline && echo BASELINE_TAG_PUSHED && git log --oneline -2"}
+{"id": "1107", "status": "pending", "target": "vm-ecosystem", "command": "sudo apt-get update -qq && sudo apt-get install -y docker.io docker-compose curl jq 2>&1 | tail -5 && sudo systemctl enable docker && sudo systemctl start docker && sudo usermod -aG docker jose && docker --version && echo DOCKER_INSTALLED"}
