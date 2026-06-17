@@ -1,1 +1,1 @@
-{"id": 1018, "output": "0 2 * * * /home/jose/moreno-ai-backup.sh >> /home/jose/moreno-ai-backup.log 2>&1\nCRON_INSTALLED", "status": "done"}
+{"id": 1019, "output": "BACKUP_RUN_OK\n[2026-06-17T16:45:19Z] Starting nightly backup\n/home/jose/moreno-ai-backup.sh: line 19: rsync: command not found\n[2026-06-17T16:45:20Z] memory/ rsync FAILED (exit 127)\n[2026-06-17T16:45:20Z] Backup complete", "status": "done"}
