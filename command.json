@@ -1,1 +1,1 @@
-{"id": "854", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && base64 -w 0 runtime/agent_identity_loader.py"}
+{"id": "855", "status": "pending", "target": "vm-claude-hub", "command": "wc -l /home/jose/moreno-ai/runtime/agent_identity_loader.py && head -5 /home/jose/moreno-ai/runtime/agent_identity_loader.py && grep -c 'environment' /home/jose/moreno-ai/runtime/agent_identity_loader.py"}
