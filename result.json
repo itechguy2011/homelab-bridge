@@ -1,1 +1,1 @@
-{"id": "1119", "output": "  File \"<string>\", line 10\n    print(NATS_BANNER:, banner[:80].strip())\n                     ^\nSyntaxError: invalid syntax\n", "status": "done"}
+{"id": "1120", "output": "NATS_TCP_OK: INFO {\"server_id\":\"NBKKEOJPXW5WFXCGIQBOK3SQILEE7ABWHSRPSSLQK\nSERVER_NAME: moreno-nats\nNATS_VERSION: 2.10.29\nJETSTREAM_ENABLED: False\nCONNECTIONS: 0\nJS_STREAMS: 0\nJS_CONSUMERS: 0\nNATS_SERVER_OK\n", "status": "done"}
