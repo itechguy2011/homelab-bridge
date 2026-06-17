@@ -1,1 +1,1 @@
-{"id": "1050", "status": "pending", "target": "vm-claude-hub", "command": "sshpass -p jose ssh -o StrictHostKeyChecking=no jose@192.168.0.118 \"hostname && ip a show | grep inet && cat /etc/os-release | head -3\" 2>&1"}
+{"id": "1051", "status": "pending", "target": "vm-claude-hub", "command": "nmap -sn 192.168.0.100-130 2>/dev/null | grep -E \"report for|MAC\" | head -40"}
