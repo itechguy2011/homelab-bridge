@@ -1,1 +1,1 @@
-{"id": "1061", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/claude-poller.sh"}
+{"id": "1062", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/.poller_last_id && echo POLLER_IS_ALIVE && systemctl is-active claude-poller 2>/dev/null || echo NOT_SYSTEMD; ps aux | grep poller | grep -v grep"}
