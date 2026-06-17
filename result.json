@@ -1,1 +1,1 @@
-{"id": 927, "output": "KEY_AUTH_WORKS\njose\nsudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper\nsudo: a password is required", "status": "done"}
+{"id": 928, "output": "[sudo] password for jose: bash: -c: line 1: syntax error near unexpected token `('\nbash: -c: line 1: `echo jose ALL=(ALL) NOPASSWD:ALL > /etc/sudoers.d/jose && chmod 440 /etc/sudoers.d/jose && echo NOPASSWD_DONE'", "status": "done"}
