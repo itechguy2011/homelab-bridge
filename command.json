@@ -1,1 +1,1 @@
-{"id": "980", "status": "pending", "target": "vm-claude-hub", "command": "ssh -o StrictHostKeyChecking=no -i /home/jose/.ssh/n8n_bridge jose@192.168.0.203 'lsblk && echo --- && df -h && echo --- && fdisk -l /dev/sda 2>/dev/null | head -20' 2>&1"}
+{"id": "981", "status": "pending", "target": "vm-claude-hub", "command": "ssh -o StrictHostKeyChecking=no -i /home/jose/.ssh/n8n_bridge jose@192.168.0.203 'sudo fdisk -l /dev/sda 2>&1 && echo --- && sudo parted /dev/sda print free 2>&1' 2>&1"}
