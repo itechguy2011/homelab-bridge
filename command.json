@@ -1,1 +1,1 @@
-{"id": "924", "status": "pending", "target": "vm-claude-hub", "command": "which sshpass 2>/dev/null && echo 'sshpass present' || echo 'sshpass missing' && dpkg -l sshpass 2>/dev/null | tail -1"}
+{"id": "925", "status": "pending", "target": "vm-claude-hub", "command": "sshpass -p 'jose' ssh -o StrictHostKeyChecking=no jose@192.168.0.118 'hostname && whoami && id && cat /etc/os-release | grep PRETTY && df -h / && free -m | head -2 && echo CONNECTED' 2>&1"}
