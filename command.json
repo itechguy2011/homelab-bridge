@@ -1,1 +1,1 @@
-{"id": "1063", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/claude-poller.sh"}
+{"id": "1064", "status": "pending", "target": "vm-claude-hub", "command": "grep -n \"vm-\\|192.168.0.\" /home/jose/claude-poller.sh | head -30"}
