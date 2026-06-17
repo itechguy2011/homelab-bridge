@@ -1,1 +1,1 @@
-{"id": "984", "status": "pending", "target": "vm-claude-hub", "command": "for i in 1 2 3 4 5 6 7 8 9 10 11 12; do nc -z -w 3 192.168.0.203 22 && echo VM_BACK_UP && break || echo \"attempt $i: waiting...\"; sleep 10; done"}
+{"id": "985", "status": "pending", "target": "vm-claude-hub", "command": "ssh -o StrictHostKeyChecking=no -i /home/jose/.ssh/n8n_bridge jose@192.168.0.203 '\necho === DISK VERIFICATION ===\nlsblk\necho ---\ndf -h /\necho ---\nfree -h\necho ---\nsystemctl status resize-root.service 2>&1 | head -15\necho ---\ncat /proc/swaps\n' 2>&1"}
