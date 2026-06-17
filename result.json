@@ -1,1 +1,1 @@
-{"id": "1143", "output": "{\"status\":\"ok\"}---\n---\n2.8.4\n---\nError: Command \"user:list\" not found\n", "status": "done"}
+{"id": "1144", "output": "Service updated\nn8n restarted\n{\"status\":\"ok\"}\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/v1/</pre>\n</body>\n</html>\n", "status": "done"}
