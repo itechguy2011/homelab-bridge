@@ -1,1 +1,1 @@
-{"id": "1074", "output": "SECOND_CMD_OK\n 15:22:16 up  1:04,  1 user,  load average: 0.40, 0.26, 0.21\n1073\n", "status": "done"}
+{"id": "1075", "output": "Setting up g++ (4:14.2.0-1) ...\r\nupdate-alternatives: using /usr/bin/g++ to provide /usr/bin/c++ (c++) in auto mode\r\nSetting up build-essential (12.12) ...\r\nProcessing triggers for man-db (2.13.1-1) ...\r\nProcessing triggers for libc-bin (2.41-12+deb13u3) ...\r\nBASELINE_INSTALL_DONE\n", "status": "done"}
