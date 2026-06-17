@@ -1,1 +1,1 @@
-{"id": "940", "status": "pending", "target": "vm-claude-hub", "command": "sshpass -p 'jose' ssh -o StrictHostKeyChecking=no -o PasswordAuthentication=yes -o NumberOfPasswordPrompts=1 root@192.168.0.118 'whoami && hostname && cat /etc/passwd | grep -v nologin | grep -v false && echo SSH_SUCCESS' 2>&1"}
+{"id": "941", "status": "pending", "target": "vm-claude-hub", "command": "sshpass -p 'jose' ssh -o StrictHostKeyChecking=no -o PasswordAuthentication=yes -o NumberOfPasswordPrompts=1 debian@192.168.0.118 'whoami && echo OK' 2>&1"}
