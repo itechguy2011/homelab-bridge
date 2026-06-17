@@ -1,1 +1,1 @@
-{"id": "1051", "status": "pending", "target": "vm-claude-hub", "command": "nmap -sn 192.168.0.100-130 2>/dev/null | grep -E \"report for|MAC\" | head -40"}
+{"id": "1052", "status": "pending", "target": "vm-claude-hub", "command": "nmap -sn 192.168.0.1-254 2>/dev/null | grep -E \"report for\" | awk \"{print \\$5}\" | sort -t. -k4 -n"}
