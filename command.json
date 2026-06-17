@@ -1,1 +1,1 @@
-{"id": "1070", "status": "pending", "target": "vm-claude-hub", "command": "cp /home/jose/claude-poller.sh /home/jose/claude-poller.sh.bak && cat /home/jose/claude-poller.sh | head -5"}
+{"id": "1071", "status": "pending", "target": "vm-claude-hub", "command": "sudo reboot"}
