@@ -1,1 +1,1 @@
-{"id": 994, "output": "Cloning into '/home/jose/moreno-ai'...\nCLONE_OK", "status": "done"}
+{"id": 995, "output": "agent_identity_loader.py\nenvironment_runtime.py\n__init__.py\njournal_runtime.py\nmemory_runtime.py\nperspective_engine.py\n__pycache__\nrelationship_runtime.py\nshared_event_runtime.py\nstory_runtime.py\n---RUNTIME_OK---\nstdlib OK\nno requirements.txt\nPython 3.13.5", "status": "done"}
