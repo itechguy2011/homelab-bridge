@@ -1,1 +1,1 @@
-{"id": 887, "output": "SYNTAX OK on VM\n1171 /home/jose/moreno-ai/runtime/shared_event_runtime.py", "status": "done"}
+{"id": 888, "output": "Traceback (most recent call last):\n  File \"<string>\", line 93, in <module>\n    T('H8', idx3['total_events'] >= pre_count, f'total={idx3[total_events]}')\n                                                             ^^^^^^^^^^^^\nNameError: name 'total_events' is not defined", "status": "done"}
