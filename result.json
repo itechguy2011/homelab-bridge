@@ -1,1 +1,1 @@
-{"id": "1158", "output": "active=False id=FLuUDg0bWUtxH6BR\nmsg: ok\n---\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ResponseError: Failed to parse request body<br> &nbsp; &nbsp;at parseBody (/usr/lib/node_modules\n---\n{\"message\":\"PUT method not allowed\"}\n", "status": "done"}
+{"id": "1159", "output": "{\"message\":\"PATCH method not allowed\"}\n---\nactive=False\n", "status": "done"}
