@@ -1,1 +1,1 @@
-{"id": "1150", "output": "Workflow JSON size: 10307 bytes\nRAW RESULT: {\"message\":\"request/body must NOT have additional properties\"}\nERROR: request/body must NOT have additional properties\n", "status": "done"}
+{"id": "1151", "output": "CREATED id=5p9aTjMQLniuy4ey name=test-minimal\nAccepted keys: ['name', 'nodes', 'connections', 'settings', 'active', 'versionId', 'id', 'description', 'staticData', 'meta', 'pinData', 'activeVersionId', 'updatedAt', 'createdAt', 'isArchived', 'versionCounter', 'triggerCount']\n", "status": "done"}
