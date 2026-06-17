@@ -1,1 +1,1 @@
-{"id": "869", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && git log --oneline -6 && echo '---' && ls docs/phase-9e5* docs/phase-9e6* 2>/dev/null && echo '---' && git tag | grep -E '9E5|9E6'"}
+{"id": "870", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && cat docs/shared-event-runtime-architecture.md | head -80 && echo '---SCHEMA-HEAD---' && cat docs/shared-event-schema.md | head -60 && echo '---REF-HEAD---' && cat docs/shared-event-reference-integrity.md | head -40"}
