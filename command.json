@@ -1,1 +1,1 @@
-{"id": "920", "status": "pending", "target": "vm-claude-hub", "command": "ssh -o StrictHostKeyChecking=no -o ConnectTimeout=5 jose@192.168.0.118 'hostname && whoami && sudo whoami && cat /etc/debian_version && ip addr show | grep 192.168 && df -h / && timedatectl status | head -5 && git --version && echo CONNECTED' 2>&1 || echo 'SSH_FAILED'"}
+{"id": "921", "status": "pending", "target": "vm-claude-hub", "command": "ssh-keyscan -t ed25519 192.168.0.118 2>/dev/null && ping -c2 192.168.0.118 && echo REACHABLE"}
