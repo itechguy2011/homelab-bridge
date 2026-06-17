@@ -1,1 +1,1 @@
-{"id":"1194","output":"skip","status":"done"}
+{"id": "1194", "output": "2.8.4\n---\nSYSTEMD_EXEC_PID=40351\n---\n/usr/lib/node_modules/n8n/dist/workflow-execute-additional-data.js\n/usr/lib/node_modules/n8n/dist/services/frontend.service.js\n/usr/lib/node_modules/n8n/dist/task-runners/task-managers/data-request-response-builder.js\n/usr/lib/node_modules/n8n/dist/scaling/job-processor.js\n/usr/lib/node_modules/n8n/dist/workflow-runner.js\n---\n", "status": "done"}
