@@ -1,1 +1,1 @@
-{"id": "1073", "output": "POLLER_V2_CONFIRMED\njose       40351  0.0  0.0   7208  3504 ?        Ss   15:21   0:00 /bin/bash /home/jose/claude-poller.sh\njose       40549  0.0  0.0   7208  1836 ?        S    15:21   0:00 /bin/bash /home/jose/claude-poller.sh\njose       40550  0.0  0.0   7208  2164 ?        S    15:21   0:00 /bin/bash /home/jose/claude-poller.sh\n", "status": "done"}
+{"id": "1074", "output": "SECOND_CMD_OK\n 15:22:16 up  1:04,  1 user,  load average: 0.40, 0.26, 0.21\n1073\n", "status": "done"}
