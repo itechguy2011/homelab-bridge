@@ -1,1 +1,1 @@
-{"id": "1120", "output": "NATS_TCP_OK: INFO {\"server_id\":\"NBKKEOJPXW5WFXCGIQBOK3SQILEE7ABWHSRPSSLQK\nSERVER_NAME: moreno-nats\nNATS_VERSION: 2.10.29\nJETSTREAM_ENABLED: False\nCONNECTIONS: 0\nJS_STREAMS: 0\nJS_CONSUMERS: 0\nNATS_SERVER_OK\n", "status": "done"}
+{"id": "1121", "output": "=== NATS Subject Tests ===\nOK: ecosystem.test\nOK: journal.created\nOK: memory.created\nOK: council.motion.created\nOK: sentinel.review.required\n=== Results: PASS=5 FAIL=0 ===\nSUBJECT_TESTS_DONE\n", "status": "done"}
