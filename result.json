@@ -1,1 +1,1 @@
-{"id": 926, "output": "=== Phase A: vm-ecosystem standard configuration ===\nSSH key installed\nsudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper\nsudo: a password is required", "status": "done"}
+{"id": 927, "output": "KEY_AUTH_WORKS\njose\nsudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper\nsudo: a password is required", "status": "done"}
