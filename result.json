@@ -1,1 +1,1 @@
-{"id": 944, "output": "bash: -c: line 2: syntax error near unexpected token `|'\nbash: -c: line 2: `echo M3gh@n!97& | sudo -S bash -c \"'", "status": "done"}
+{"id": 945, "output": "[sudo] password for jose: OK_SUDO", "status": "done"}
