@@ -1,1 +1,1 @@
-{"id": "1087", "output": "active\n", "status": "done"}
+{"id": "1088", "output": "HTTP_PORT = 3000\nROOT_URL = http://192.168.0.191:3000/\n/home/jose/gitea/data/gitea/conf/app.ini\n", "status": "done"}
