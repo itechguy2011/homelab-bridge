@@ -1,1 +1,1 @@
-{"id": "991", "status": "pending", "command": "echo Y2QgL2hvbWUvam9zZS9tb3Jlbm8tYWkgJiYgZ2l0IHRhZyBQaGFzZTlGMi1JbmZyYXN0cnVjdHVyZUF1dGhvcml0eU1hcCAmJiBnaXQgcHVzaCBvcmlnaW4gUGhhc2U5RjItSW5mcmFzdHJ1Y3R1cmVBdXRob3JpdHlNYXAgMj4mMSAmJiBlY2hvICJUQUdfT0siCg== | base64 -d | bash"}
+{"id": "992", "status": "pending", "command": "ssh -i /home/jose/.ssh/n8n_bridge -o StrictHostKeyChecking=no jose@192.168.0.203 \"echo Z2l0IGNsb25lIGh0dHA6Ly8xOTIuMTY4LjAuMTkxOjMwMDAvam9zZS9Nb3Jlbm8tQUkgL2hvbWUvam9zZS9tb3Jlbm8tYWkgMj4mMSAmJiBlY2hvICJDTE9ORV9PSyIK | base64 -d | bash\" 2>&1"}
