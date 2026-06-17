@@ -1,1 +1,1 @@
-{"id": "1096", "output": "chown: cannot access '/home/jose/gitea/data/gitea/repositories': No such file or directory\n", "status": "done"}
+{"id": "1097", "output": "/home/jose/gitea/data/git/repositories\ndata\n", "status": "done"}
