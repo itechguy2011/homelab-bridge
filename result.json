@@ -1,1 +1,1 @@
-{"id": 928, "output": "[sudo] password for jose: bash: -c: line 1: syntax error near unexpected token `('\nbash: -c: line 1: `echo jose ALL=(ALL) NOPASSWD:ALL > /etc/sudoers.d/jose && chmod 440 /etc/sudoers.d/jose && echo NOPASSWD_DONE'", "status": "done"}
+{"id": 929, "output": "[sudo] password for jose: Sorry, try again.\n[sudo] password for jose: \nsudo: no password was provided\nsudo: 1 incorrect password attempt", "status": "done"}
