@@ -1,1 +1,1 @@
-{"id": "986", "status": "pending", "command": "echo ZmluZCAvaG9tZS9qb3NlIC1tYXhkZXB0aCA1IC10eXBlIGQgMj4vZGV2L251bGwgfCBncmVwIC1pICJtb3Jlbm9cfGVjb3N5c3RlbVx8cnVudGltZVx8Y291bmNpbFx8aWRlbnRpdHlcfG1lbW9yeVx8am91cm5hbCIgfCBoZWFkIC0zMDsgZWNobyAiLS0tIjsgbHMgL2hvbWUvam9zZS8gMj4vZGV2L251bGwK | base64 -d | bash"}
+{"id": "987", "status": "pending", "command": "echo ZmluZCAvaG9tZS9qb3NlL21vcmVuby1haSAtdHlwZSBmIHwgc29ydCAyPi9kZXYvbnVsbAo= | base64 -d | bash"}
