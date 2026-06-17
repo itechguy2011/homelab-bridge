@@ -1,1 +1,1 @@
-{"id": 1034, "output": "DNS_OK\nrsync.service is a disabled or a static unit, not starting it.\r\nProcessing triggers for man-db (2.13.1-1) ...\r\nrsync  version 3.4.1  protocol version 32\nRSYNC_OK", "status": "done"}
+{"id": 1035, "output": "SCP_KEY_OK", "status": "done"}
