@@ -1,1 +1,1 @@
-{"id": 983, "output": "=== SETUP POST-REBOOT RESIZE ===\nCreated symlink '/etc/systemd/system/multi-user.target.wants/resize-root.service' \u2192 '/etc/systemd/system/resize-root.service'.\nRESIZE_SERVICE_CREATED\n=== REMOVING OLD SWAP FROM FSTAB ===\nNO_SWAP_IN_FSTAB\nREBOOTING_NOW", "status": "done"}
+{"id": 984, "output": "attempt 1: waiting...\nVM_BACK_UP", "status": "done"}
