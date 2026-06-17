@@ -1,1 +1,1 @@
-{"id": 879, "output": "OK runtime/memory_runtime.py: wrapper injected\nOK runtime/journal_runtime.py: wrapper injected\nBOTH WRAPPERS INJECTED", "status": "done"}
+{"id": 880, "output": "  File \"<string>\", line 31\n    T('M4-write', rec is not None and 'memory_id' in rec, f'id={rec.get(memory_id,?) if rec else None}')\n                                                                       ^\nSyntaxError: f-string: expecting '=', or '!', or ':', or '}'", "status": "done"}
