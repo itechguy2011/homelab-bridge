@@ -1,1 +1,1 @@
-{"id": "1205", "output": "bridge-execute|POST\n---\nNode version: v20.20.2\nfetch works: 200\n", "status": "done"}
+{"id": "1206", "output": "UPDATED\n--- wrong secret ---\n\n--- invalid VM ---\n", "status": "done"}
