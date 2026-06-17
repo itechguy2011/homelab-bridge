@@ -1,1 +1,1 @@
-{"id": "919", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && cat docs/infrastructure-authority-map.md && echo '---SERVICE-INV---' && cat docs/current-service-inventory.md"}
+{"id": "920", "status": "pending", "target": "vm-claude-hub", "command": "ssh -o StrictHostKeyChecking=no -o ConnectTimeout=5 jose@192.168.0.118 'hostname && whoami && sudo whoami && cat /etc/debian_version && ip addr show | grep 192.168 && df -h / && timedatectl status | head -5 && git --version && echo CONNECTED' 2>&1 || echo 'SSH_FAILED'"}
