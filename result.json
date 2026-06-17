@@ -1,1 +1,1 @@
-{"id": 912, "output": "SYNTAX OK on VM\n1230 /home/jose/moreno-ai/runtime/story_runtime.py", "status": "done"}
+{"id": 913, "output": "Traceback (most recent call last):\n  File \"<string>\", line 28, in <module>\n    T('N1', len(ss['events']) >= 0, f'{len(ss[events])} events')  # may be 0 if window different\n                                              ^^^^^^\nNameError: name 'events' is not defined", "status": "done"}
