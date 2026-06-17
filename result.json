@@ -1,1 +1,1 @@
-{"id": 932, "output": "PING 192.168.0.118 (192.168.0.118) 56(84) bytes of data.\n64 bytes from 192.168.0.118: icmp_seq=1 ttl=64 time=0.189 ms\n64 bytes from 192.168.0.118: icmp_seq=2 ttl=64 time=0.184 ms\n64 bytes from 192.168.0.118: icmp_seq=3 ttl=64 time=0.223 ms\n\n--- 192.168.0.118 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2033ms\nrtt min/avg/max/mdev = 0.184/0.198/0.223/0.017 ms\nPORT_22_CLOSED", "status": "done"}
+{"id": 933, "output": "PORT_STILL_CLOSED", "status": "done"}
