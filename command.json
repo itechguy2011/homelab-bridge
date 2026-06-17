@@ -1,1 +1,1 @@
-{"id": "1064", "status": "pending", "target": "vm-claude-hub", "command": "grep -n \"vm-\\|192.168.0.\" /home/jose/claude-poller.sh | head -30"}
+{"id": "1065", "status": "pending", "target": "vm-claude-hub", "command": "sudo reboot"}
