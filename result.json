@@ -1,1 +1,1 @@
-{"id": "1226", "output": "Script created\nvm-claude-hub\n 18:37:07 up  4:19,  1 user,  load average: 0.17, 0.17, 0.21\n---\nssh: connect to host 192.168.0.209 port 22: No route to host\r\n", "status": "done"}
+{"id": "1227", "output": "ssh: connect to host 192.168.0.209 port 22: No route to host\r\nvm-ecosystem maps to: 192.168.0.203\n---\nvm-ecosystem\n", "status": "done"}
