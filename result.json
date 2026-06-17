@@ -1,1 +1,1 @@
-{"id": "1118", "output": "  File \"<string>\", line 1\n    import sys,json; d=json.load(sys.stdin); print(server:, d[server_name], version:, d[version])\n                                                         ^\nSyntaxError: invalid syntax\n15:58:52 Published 20 bytes to \"ecosystem.test\"\nPUBSUB_TEST_DONE\n", "status": "done"}
+{"id": "1119", "output": "  File \"<string>\", line 10\n    print(NATS_BANNER:, banner[:80].strip())\n                     ^\nSyntaxError: invalid syntax\n", "status": "done"}
