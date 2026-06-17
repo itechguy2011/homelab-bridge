@@ -1,1 +1,1 @@
-{"id": "1104", "status": "pending", "target": "vm-claude-hub", "command": "cd /home/jose/moreno-ai && git add -A && git diff --cached --quiet || git commit -m \"9F.2: vm-memory provisioning complete \u2014 backup cron, gitignore, all checks green\" && git push origin main && git tag Phase9F2-vmMemoryComplete && git push origin Phase9F2-vmMemoryComplete && echo TAG_PUSHED && git log --oneline -3"}
+{"id": "1105", "status": "pending", "target": "vm-ecosystem", "command": "echo ALIVE && uptime && docker --version && ls /opt/docker/stacks/ 2>/dev/null || echo NO_STACKS_DIR"}
