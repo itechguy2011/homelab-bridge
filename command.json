@@ -1,1 +1,1 @@
-{"id": "1083", "status": "pending", "target": "vm-claude-hub", "command": "sudo systemctl enable gitea && sleep 5 && curl -sf http://localhost:3000/api/v1/version && echo GITEA_OK"}
+{"id": "1084", "status": "pending", "target": "vm-claude-hub", "command": "systemctl is-active gitea; ss -tlnp | grep 3000; curl -s http://localhost:3000/api/v1/version | python3 -c \"import sys,json; print(json.load(sys.stdin).get(\"version\",\"?\"))\" 2>/dev/null || echo GITEA_NOT_RESPONDING; journalctl -u gitea -n 5 --no-pager"}
