@@ -1,1 +1,1 @@
-{"id": "1131", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/claude-poller.sh && echo ===LASTID=== && cat /home/jose/.poller_last_id && echo ===SERVICE=== && cat /etc/systemd/system/claude-poller.service"}
+{"id": "1136", "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/claude-poller.sh && echo ===SERVICE=== && cat /etc/systemd/system/claude-poller.service && echo ===LASTID=== && cat /home/jose/.poller_last_id"}
