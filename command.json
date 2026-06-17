@@ -1,1 +1,1 @@
-{"id": "1111", "status": "pending", "target": "vm-ecosystem", "command": "cd /opt/docker/stacks/infra/nats && sudo docker-compose pull 2>&1 | tail -3 && sudo docker-compose up -d 2>&1 && sleep 6 && sudo docker ps | grep nats && echo NATS_CONTAINER_UP"}
+{"id": "1112", "status": "pending", "target": "vm-ecosystem", "command": "sudo docker logs moreno-nats 2>&1 | head -30"}
