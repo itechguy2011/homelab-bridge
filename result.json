@@ -1,1 +1,1 @@
-{"id": "1233", "output": "CREATED: id=7sHvbTvrQxIYVa9K name=Bridge Hub SSH\n", "status": "done"}
+{"id": "1234", "output": "UPDATED active=True\n=== TEST 1: vm-claude-hub hostname && uptime ===\n{\"ok\":true,\"target\":\"vm-claude-hub\",\"output\":\"vm-claude-hub\\n 22:04:30 up  7:46,  2 users,  load average: 0.05, 0.14, 0.16\"}\n=== TEST 2: vm-ecosystem docker ps ===\n{\"ok\":true,\"target\":\"vm-ecosystem\",\"output\":\"NAMES         STATUS\\nmoreno-nats   Up 6 hours\"}\n", "status": "done"}
