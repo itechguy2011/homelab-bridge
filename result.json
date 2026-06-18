@@ -1,1 +1,1 @@
-{"id": "1259", "output": "[main 499b662] feat: Phase 4 \u2014 Sentinel preflight integrated into executor\n 3 files changed, 345 insertions(+), 89 deletions(-)\n create mode 100644 council/approval-queue/__pycache__/sentinel_policy.cpython-313.pyc\n create mode 100644 council/approval-queue/sentinel_policy.py\ntagged\n", "status": "done"}
+{"id": "1260", "output": "writer_ok\nreviewer_ok\ndeployed\n", "status": "done"}
