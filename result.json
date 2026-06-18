@@ -1,1 +1,1 @@
-{"id": "1350", "output": "=== Check workflow active status ===\nname=chatgpt-autonomous-cycle-v1 active=False id=bKgo7PzAuNAzDur2\n\n=== Try execute endpoint ===\n{'message': 'POST method not allowed'}\n\n=== Available API endpoints for workflow execution ===\n{\"message\":\"GET method not allowed\"}\n", "status": "done"}
+{"id": "1351", "output": "=== Try test execute (n8n internal endpoint) ===\n{\"message\":\"POST method not allowed\"}\n=== Check n8n version and API ===\n{\"message\":\"not found\"}\nversion: ?\n", "status": "done"}
