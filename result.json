@@ -1,1 +1,1 @@
-{"id": "1260", "output": "writer_ok\nreviewer_ok\ndeployed\n", "status": "done"}
+{"id": "1262", "output": "python3: can't open file '/tmp/test_loop.py': [Errno 2] No such file or directory\n", "status": "done"}
