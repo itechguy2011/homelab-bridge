@@ -1,1 +1,1 @@
-{"id": "1325", "output": "=== Check for OpenAI key ===\nnot found at .secrets/openai_key\ngithub_bridge_pat\n", "status": "done"}
+{"id": "1326", "output": "OpenAI credential: id=MlHiXWKbn2u5Xws6 name=OpenAI API Key\nTraceback (most recent call last):\n  File \"/tmp/deploy_p411.py\", line 32, in <module>\n    wf = json.loads(open(\"/tmp/cycle_workflow_v2.json\").read())\n                    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/tmp/cycle_workflow_v2.json'\n", "status": "done"}
