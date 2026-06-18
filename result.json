@@ -1,1 +1,1 @@
-{"id": "1304", "output": "settings: {\n  \"executionOrder\": \"v1\",\n  \"binaryMode\": \"separate\",\n  \"availableInMCP\": false\n}\n", "status": "done"}
+{"id": "1305", "output": "Code node patched\nSettings cleaned: kept ['executionOrder'], dropped ['binaryMode', 'availableInMCP']\nSending 15882 bytes...\nSUCCESS: workflow updated id=ArggUnyfgj8fVbls active=True\nVERIFIED: safe staging logic confirmed in live workflow\n", "status": "done"}
