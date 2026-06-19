@@ -1,1 +1,1 @@
-{"id": "1388", "output": "=== openssl available? ===\nOpenSSL 3.5.6 7 Apr 2026 (Library: OpenSSL 3.5.6 7 Apr 2026)\n=== sqlite3 available? ===\n3.46.1 2024-08-13 09:16:08 c9c2ab54ba1f5f46360f1b4f35d849cd3f080e6fc2b6c60e91b16c63f69aalt1 (64-bit)\n", "status": "done"}
+{"id": "1389", "output": "enc_key length: 32\nFound: OpenAI API Key data_len=300\nTraceback (most recent call last):\n  File \"/tmp/dec.py\", line 17, in <module>\n    ct_bytes = bytes.fromhex(ct_hex)\nValueError: non-hexadecimal number found in fromhex() arg at position 0\n", "status": "done"}
