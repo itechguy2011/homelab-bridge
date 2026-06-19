@@ -1,1 +1,1 @@
-{"id": "1384", "output": "/usr/bin/python3: No module named pip\n", "status": "done"}
+{"id": "1385", "output": "=== Node.js version ===\nv20.20.2\n=== Can use node crypto? ===\ncrypto ok, version: v20.20.2\n", "status": "done"}
