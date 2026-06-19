@@ -1,1 +1,1 @@
-{"id": "1383", "output": "bash: line 1: pip: command not found\n", "status": "done"}
+{"id": "1384", "output": "/usr/bin/python3: No module named pip\n", "status": "done"}
