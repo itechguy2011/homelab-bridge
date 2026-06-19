@@ -1,1 +1,1 @@
-{"id": "1394", "output": "return code: 1\nstdout bytes: 0\nstderr: error reading input file\n\nraw stdout repr: b''\n", "status": "done"}
+{"id": "1395", "output": "Binary length: 128\nHeader: b'Salted__'\nrc=0 stdout=97b stderr=*** WARNING : deprecated key derivation used.\nUsing -iter or -pbkdf2 would be better.\n\nDecrypted (97 chars): '{\"name\":\"Authorization\",\"value\":\"Bearer  __n8n_BLANK_VALUE_e5362baf-c777-4d57-a609-6eaf1f9e87f6\"}'\nKeys: ['name', 'value']\n  name = Authorization\n  value = [BLANK]\n", "status": "done"}
