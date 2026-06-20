@@ -1,1 +1,1 @@
-{"id": "1490", "status": "pending", "command": "echo c3VkbyBzeXN0ZW1jdGwgcmVzdGFydCBjbGF1ZGUtcG9sbGVyICYmIGVjaG8gcmVzdGFydGVkCg== | base64 -d | bash"}
+{"id": "1491", "status": "pending", "command": "echo aGVhZCAtMyAvaG9tZS9qb3NlL2NsYXVkZS1wb2xsZXIuc2ggJiYgZWNobyAtLS0gJiYgc3lzdGVtY3RsIGlzLWFjdGl2ZSBjbGF1ZGUtcG9sbGVyCg== | base64 -d | bash"}
