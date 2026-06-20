@@ -1,1 +1,1 @@
-{"id": "1498", "status": "done", "output": "providers: ['ollama']\nagent 'defaults': model={'primary': 'ollama/llama3.2:latest'} tools.profile=None\n\nOpenClaw process: 19037 bash -c pgrep -af openclaw | grep dist | head -2\n", "exit_code": 0}
+{"id": "1499", "status": "done", "output": "Removed hardcoded model from agents.defaults\ntools.profile: None (should be None)\nConfig pushed: OK\nproviders: ['ollama', 'anthropic']\nagent 'defaults': model=<free \u2014 picker controls this>\n\nRestarting OpenClaw...\nRestart output: \n", "exit_code": 0}
