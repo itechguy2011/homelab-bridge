@@ -1,1 +1,1 @@
-{"id": "1510", "status": "done", "output": "Default model set to: ollama/qwen3.6:27b\ntools.profile: None\nConfig pushed: OK\nConfig valid: Config valid: ~/.openclaw/openclaw.json\nReload: Too many arguments for this command.\nTry: openclaw gateway reload --help\n", "exit_code": 0}
+{"id": "1511", "status": "done", "output": "Stopped systemd service: openclaw-gateway.service\nstopped\n", "exit_code": 0}
