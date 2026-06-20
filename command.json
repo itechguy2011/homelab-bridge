@@ -1,1 +1,1 @@
-{"id": "1440", "status": "pending", "command": "cat /home/jose/.poller_last_id 2>/dev/null && echo --- && ps aux | grep openclaw | grep -v grep | head -3"}
+{"id": "1440", "status": "pending", "command": "# Kill any stuck poller\npkill -f bridge-poller 2>/dev/null || true\nsleep 2\n\n# Restart the poller\ncd /home/jose\nnohup bash /home/jose/bridge-poller.sh >> /tmp/bridge-poller.log 2>&1 &\necho poller_restarted_pid=$!\ncat ~/.poller_last_id"}
