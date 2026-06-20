@@ -1,1 +1,1 @@
-{"id": "1544", "status": "done", "output": "bash: line 1: /home/jose/.npm-global/bin/openclaw: No such file or directory\n", "exit_code": 127}
+{"id": "1545", "status": "done", "output": "---\n/home/jose/.npm-global/bin/openclaw\n", "exit_code": 0}
