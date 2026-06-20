@@ -1,1 +1,1 @@
-{"id": "1450", "output": "bash: -c: line 7: syntax error near unexpected token `('\nbash: -c: line 7: `    print(f\"{m[\"name\"]:30} {det.get(\"parameter_size\",\"?\"):8} {det.get(\"quantization_level\",\"?\"):10} tools={\"tools\" in caps} ctx={det.get(\"context_length\",\"?\")} size_gb={m[\"size\"]/1e9:.1f}\")'\n", "status": "done"}
+{"id": "1451", "status": "done", "output": "recovery-skip"}
