@@ -1,1 +1,1 @@
-{"id": "1497", "status": "done", "output": "bash: line 1: not: No such file or directory\n", "exit_code": 1}
+{"id": "1498", "status": "done", "output": "providers: ['ollama']\nagent 'defaults': model={'primary': 'ollama/llama3.2:latest'} tools.profile=None\n\nOpenClaw process: 19037 bash -c pgrep -af openclaw | grep dist | head -2\n", "exit_code": 0}
