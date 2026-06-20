@@ -1,1 +1,1 @@
-{"id": "1441", "output": "poller_alive\n1440\n", "status": "done"}
+{"id": "1442", "output": "\n=== OPENCLAW PROCESS ===\n\n\nOpenClaw is NOT running \u2014 starting it now\nno_start_script\nstarted_pid=18168\n\n=== OPENCLAW AFTER START ===\n\n\n=== OPENCLAW START METHOD ===\n\n\n=== CONFIG VERIFICATION ===\ntools.profile:    None  OK (null)\ntrustedProxies:   ['127.0.0.1', '::1']  OK\nallowedOrigins:   ['http://192.168.0.199', 'https://192.168.0.199', 'http://localhost:9119', 'http://127.0.0.1:9119']\n", "status": "done"}
