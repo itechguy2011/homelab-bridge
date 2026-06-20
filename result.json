@@ -1,1 +1,1 @@
-{"id": "1543", "status": "done", "output": "Stopped systemd service: openclaw-gateway.service\nnpm notice\nnpm notice New minor version of npm available! 11.12.1 -> 11.17.0\nnpm notice Changelog: https://github.com/npm/cli/releases/tag/v11.17.0\nnpm notice To update run: npm install -g npm@11.17.0\nnpm notice\n", "exit_code": 0}
+{"id": "1544", "status": "done", "output": "bash: line 1: /home/jose/.npm-global/bin/openclaw: No such file or directory\n", "exit_code": 127}
