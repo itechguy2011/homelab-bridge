@@ -1,1 +1,1 @@
-{"id": "1485", "status": "done", "output": "skip"}
+{"id": "1486", "output": "syntax_ok\ncp: cannot stat '/home/jose/bin/claude-poller.sh': No such file or directory\n", "status": "done"}
