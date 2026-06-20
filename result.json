@@ -1,1 +1,1 @@
-{"id": "1490", "status": "done", "output": "self-killed"}
+{"id": "1491", "status": "done", "output": "#!/bin/bash\n# claude-poller.sh v2 \u2014 fixed flock timeout + command timeout\n# Fixes: blocking flock with no timeout causing cascading hangs\n---\nactive\n", "exit_code": 0}
