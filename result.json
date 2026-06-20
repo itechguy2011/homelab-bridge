@@ -1,1 +1,1 @@
-{"id": "1507", "status": "done", "output": "Not Found\n", "exit_code": 0}
+{"id": "1508", "status": "done", "output": "---\n200\nLISTEN 0      511        127.0.0.1:8787      0.0.0.0:*    users:((\"openclaw\",pid=19475,fd=38))\nLISTEN 0      511          0.0.0.0:9119      0.0.0.0:*    users:((\"openclaw\",pid=19475,fd=25))\nLISTEN 0      5            0.0.0.0:8788      0.0.0.0:*    users:((\"socat\",pid=18303,fd=5))    \n", "exit_code": 0}
