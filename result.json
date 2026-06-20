@@ -1,1 +1,1 @@
-{"id": "1529", "status": "done", "output": "Watching from line 1222. Send WhatsApp message now...\nNo new activity \u2014 message may not have arrived yet\n", "exit_code": 0}
+{"id": "1530", "status": "done", "output": "bash: -c: line 11: syntax error near unexpected token `msg'\nbash: -c: line 11: `        print(f\"{sub[:40]} | {str(msg)[:120]}\")'\n", "exit_code": 2}
