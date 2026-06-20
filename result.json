@@ -1,1 +1,1 @@
-{"id": "1542", "status": "done", "output": "OpenClaw 2026.6.5 (5181e4f)\n---\nno_update_cmd\n", "exit_code": 0}
+{"id": "1543", "status": "done", "output": "Stopped systemd service: openclaw-gateway.service\nnpm notice\nnpm notice New minor version of npm available! 11.12.1 -> 11.17.0\nnpm notice Changelog: https://github.com/npm/cli/releases/tag/v11.17.0\nnpm notice To update run: npm install -g npm@11.17.0\nnpm notice\n", "exit_code": 0}
