@@ -1,1 +1,1 @@
-{"id": "1489", "status": "done", "output": "syntax_ok\nv2_installed\n#!/bin/bash\n# claude-poller.sh v2 \u2014 fixed flock timeout + command timeout\n# Fixes: blocking flock with no timeout causing cascading hangs\n# when SSH commands run nohup/kill on remote VMs\n", "exit_code": 0}
+{"id": "1490", "status": "done", "output": "self-killed"}
