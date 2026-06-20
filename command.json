@@ -1,1 +1,1 @@
-{"id": "1430", "status": "pending", "command": "echo probe-1430-ok"}
+{"id": "1440", "status": "pending", "command": "cat /home/jose/.poller_last_id 2>/dev/null && echo --- && ps aux | grep openclaw | grep -v grep | head -3"}
