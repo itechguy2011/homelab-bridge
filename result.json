@@ -1,1 +1,1 @@
-{"id": "1511", "status": "done", "output": "Stopped systemd service: openclaw-gateway.service\nstopped\n", "exit_code": 0}
+{"id": "1512", "status": "done", "output": "active\n", "exit_code": 0}
