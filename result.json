@@ -1,1 +1,1 @@
-{"id": "1447", "output": "=== ACTIVE SESSIONS / AGENT IDs ===\n\n=== AGENTS ===\n", "status": "done"}
+{"id": "1448", "output": "=== AGENT NAMES (agentId values) ===\n  agentId: 'defaults'\n\n=== CHANNELS (sessionKey basis) ===\n  whatsapp: type=whatsapp enabled=True\n  telegram: type=telegram enabled=True\n\n=== ACTIVE SESSION KEYS ===\n  (none found in memory.json)\n\n=== SESSION KEYS FROM SQLITE ===\nno_sessions_table\n", "status": "done"}
