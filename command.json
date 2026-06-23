@@ -1,1 +1,1 @@
-{"id": 1553, "command": "echo POLLER_ALIVE && hostname && date && cat ~/.poller_last_id 2>/dev/null || echo NO_LAST_ID"}
+{"id": 1554, "command": "cd /home/jose/moreno-ai && echo '=REPO=' && pwd && git remote -v && echo '=BRANCH=' && git branch -a && echo '=HEAD=' && git log --oneline -5 && echo '=STATUS=' && git status --short && echo '=STASH=' && git stash list && echo '=TAGS=' && git tag --sort=-creatordate | head -10", "target": "vm-memory"}
