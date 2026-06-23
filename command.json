@@ -1,1 +1,1 @@
-{"id": 1595, "command": "ssh -o StrictHostKeyChecking=no -i ~/.ssh/n8n_bridge jose@192.168.0.205 bash -s << 'ENDSSH'\ncd /home/jose/moreno-ai\nsed -n '1600,1650p' runtime/moreno_governed_executor.py\nENDSSH"}
+{"id": 1596, "command": "ssh -o StrictHostKeyChecking=no -i ~/.ssh/n8n_bridge jose@192.168.0.205 bash -s << 'ENDSSH'\ncd /home/jose/moreno-ai\n# Read the full test setUp to see how job is created\nsed -n '120,210p' tests/test_moreno_governed_async_v253.py\nENDSSH"}
