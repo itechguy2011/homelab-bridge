@@ -1,1 +1,1 @@
-{"id": 1581, "command": "ssh -o StrictHostKeyChecking=no -i ~/.ssh/n8n_bridge jose@192.168.0.205 bash -s << 'ENDSSH'\ncd /home/jose/moreno-ai\nexport PATH=\"$PATH:/home/jose/.local/bin\"\necho '=ALL TESTS='\npython3 -m pytest tests/ -v 2>&1\nENDSSH"}
+{"id": 1582, "command": "ssh -o StrictHostKeyChecking=no -i ~/.ssh/n8n_bridge jose@192.168.0.205 bash -s << 'ENDSSH'\ncd /home/jose/moreno-ai\nexport PATH=\"$PATH:/home/jose/.local/bin\"\npython3 -m pytest tests/ -v 2>&1 | tail -80\nENDSSH"}
