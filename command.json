@@ -1,1 +1,1 @@
-{"id": 1554, "command": "cd /home/jose/moreno-ai && echo '=REPO=' && pwd && git remote -v && echo '=BRANCH=' && git branch -a && echo '=HEAD=' && git log --oneline -5 && echo '=STATUS=' && git status --short && echo '=STASH=' && git stash list && echo '=TAGS=' && git tag --sort=-creatordate | head -10", "target": "vm-memory"}
+{"id": 1555, "command": "echo LAST_ID=$(cat ~/.poller_last_id 2>/dev/null) && ssh -o StrictHostKeyChecking=no -o ConnectTimeout=5 -i ~/.ssh/n8n_bridge jose@192.168.0.205 \"echo SSH_OK && hostname\" 2>&1"}
