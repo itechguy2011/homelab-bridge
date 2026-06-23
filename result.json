@@ -1,1 +1,1 @@
-{"id": "1650", "status": "done", "output": "DUMMY - unstick poller from long sleep", "exit_code": 0}
+{"id": 1652, "status": "done", "execution_status": "success", "output": "RUNNING: qwen3:32b expires: 2026-06-23T18:58:00.717818-04:00\nGEN_FAIL: ", "exit_code": 0}
