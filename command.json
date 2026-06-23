@@ -1,1 +1,1 @@
-{"id": 1551, "command": "cd /home/jose/moreno-ai && git status && echo \"---BRANCH---\" && git branch && echo \"---HEAD---\" && git log --oneline -3 && echo \"---WORKING TREE---\" && git diff --stat HEAD && echo \"---STASH---\" && git stash list", "target": "vm-memory"}
+{"id": 1552, "command": "cat ~/.poller_last_id 2>/dev/null || echo NO_FILE; cat /home/jose/claude-poller.sh | head -80"}
