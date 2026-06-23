@@ -1,1 +1,1 @@
-{"id": 1639, "status": "done", "execution_status": "success", "output": "Fixed canonical sync - no longer changes job.status\nSYNTAX OK\nWritten", "exit_code": 0}
+{"id": 1640, "status": "done", "execution_status": "success", "output": "Fixed test\nTEST SYNTAX OK\nWritten", "exit_code": 0}
