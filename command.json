@@ -1,1 +1,1 @@
-{"id": 1818, "command": "ssh -o StrictHostKeyChecking=no -i ~/.ssh/n8n_bridge jose@192.168.0.205 'sed -n \"290,300p\" /home/jose/moreno-ai/tests/test_wave1_fault_injection.py && grep -n \"future_ts\" /home/jose/moreno-ai/tests/test_wave1_fault_injection.py | head -5'"}
+{"id": 1819, "command": "ssh -o StrictHostKeyChecking=no -i ~/.ssh/n8n_bridge jose@192.168.0.205 'grep -n \"assess_run_frozen\\|wave12\\|stream_tracker\" /home/jose/moreno-ai/runtime/moreno_wave1_reliability.py | head -20'"}
