@@ -1,1 +1,1 @@
-{"id": 1810, "command": "ssh -o StrictHostKeyChecking=no -i ~/.ssh/n8n_bridge jose@192.168.0.205 'cd /home/jose/moreno-ai && export PATH=$PATH:/home/jose/.local/bin && python3 -m pytest tests/ -q 2>&1 | tail -5'"}
+{"id": 1811, "command": "ssh -o StrictHostKeyChecking=no -i ~/.ssh/n8n_bridge jose@192.168.0.205 'cd /home/jose/moreno-ai && export PATH=$PATH:/home/jose/.local/bin && python3 -m pytest tests/test_wave1_fault_injection.py -v --tb=short 2>&1 | tail -30'"}
