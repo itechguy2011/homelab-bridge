@@ -1,1 +1,1 @@
-{"id": 1854, "status": "done", "execution_status": "success", "output": "['encryptionKey']\nDONE_1854", "exit_code": 0}
+{"id": 1855, "status": "done", "execution_status": "success", "output": "  File \"<string>\", line 17\n    cur.execute(SELECT\n               ^\nSyntaxError: '(' was never closed\nDONE_1855", "exit_code": 0}
