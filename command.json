@@ -1,1 +1,1 @@
-{"id": 1860, "status": "pending", "target": "vm-claude-hub", "command": "find /home/jose/moreno-ai -name '*.md' -o -name 'constitution*' -o -name 'article*' -o -name 'governance*' -o -name 'CONSTITUTION*' 2>/dev/null | grep -v '.git' | sort && echo '=== REPO ROOT ===' && ls /home/jose/moreno-ai/ && echo DONE_1860"}
+{"id": 1861, "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/moreno-ai/constitution/01_Moreno_AI_Constitution.md && echo '=== ARTICLES DIR ===' && ls /home/jose/moreno-ai/articles/ && echo DONE_1861"}
