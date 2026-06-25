@@ -1,1 +1,1 @@
-{"id": 1870, "status": "done", "execution_status": "success", "output": "=== DELEGATOR BINARY ===\n=== CONFIG ===\n=== DELEGATOR HELP ===\nbash: line 10: /home/jose/.local/bin/moreno-delegate: No such file or directory\n=== FIND DELEGATE BIN ===\nDONE_1870", "exit_code": 0}
+{"id": 1871, "status": "done", "execution_status": "success", "output": "=== FIND DELEGATOR ON VM-CLAUDE-HUB ===\n=== DELEGATOR HELP ===\nbash: line 8: /home/jose/.local/bin/moreno-delegate: No such file or directory\n=== CONFIG ===\nDONE_1871", "exit_code": 0}
