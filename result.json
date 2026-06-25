@@ -1,1 +1,1 @@
-{"id": 1940, "status": "done", "execution_status": "failed", "output": "=== LIVE NETWORK STATE OF RUNNER ===\nbash: -c: line 11: syntax error near unexpected token `('\nbash: -c: line 11: `    echo \"Open files (network):\"'", "exit_code": 2}
+{"id": 1941, "status": "done", "execution_status": "success", "output": "Runner PID: \nProcess gone\n3090: qwen3-coder:30b expires=2026-06-25T09:12:15.8096476-04:00\n3060: qwen3:8b expires=2026-06-25T08:51:50.1924363-04:00\nDONE_1941", "exit_code": 0}
