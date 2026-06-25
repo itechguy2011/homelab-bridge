@@ -1,1 +1,1 @@
-{"id": 1853, "status": "pending", "target": "vm-claude-hub", "command": "ls /home/jose/.n8n/ && echo '---' && cat /home/jose/.n8n/.env 2>/dev/null | head -30 && echo 'DONE_1853'"}
+{"id": 1854, "status": "pending", "target": "vm-claude-hub", "command": "cat /home/jose/.n8n/config 2>/dev/null | python3 -c \"import json,sys; d=json.load(sys.stdin); print([k for k in d.keys()][:20])\" && echo 'DONE_1854'"}
