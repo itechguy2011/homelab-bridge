@@ -1,1 +1,1 @@
-{"id": 2002, "status": "done", "execution_status": "success", "output": "Workflow name: Moreno Gmail Governed Bus - Batch v1\nNodes: 18\nActive: True\nSaved to /tmp/gmail-workflow-rollback.json\nNATS varz: version= 2.10.29 uptime= 7d22h34m17s subs= 63\nNATS subsz: total= 0\nDONE_2002", "exit_code": 0}
+{"id": 2004, "status": "done", "execution_status": "success", "output": "Exported: Moreno Gmail Governed Bus - Batch v1 nodes: 18\nDONE_2004", "exit_code": 0}
