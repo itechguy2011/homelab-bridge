@@ -1,1 +1,1 @@
-{"id": 1853, "status": "done", "execution_status": "success", "output": "config\ndatabase.sqlite\ndatabase.sqlite-shm\ndatabase.sqlite-wal\nn8nEventLog-1.log\nn8nEventLog-2.log\nn8nEventLog-3.log\nn8nEventLog.log\nnodes\nstorage\n---\nDONE_1853", "exit_code": 0}
+{"id": 1854, "status": "done", "execution_status": "success", "output": "['encryptionKey']\nDONE_1854", "exit_code": 0}
