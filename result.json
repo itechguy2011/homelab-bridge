@@ -1,1 +1,1 @@
-{"id": 1999, "status": "done", "execution_status": "timeout", "output": "", "exit_code": 124}
+{"id": 2000, "status": "done", "execution_status": "success", "output": "=== CHECK 3090 STATUS ===\nrunning: qwen3-coder:30b expires: 2026-06-25T14:38:44\n=== CHECK /tmp/wpb.txt EXISTS ===\n-rw-r--r-- 1 jose jose 2240 Jun 25 14:27 /tmp/wpb.txt\nEXISTS\nDONE_2000", "exit_code": 0}
