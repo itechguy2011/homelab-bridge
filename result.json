@@ -1,1 +1,1 @@
-{"id": 1869, "status": "done", "execution_status": "success", "output": "=== TEST: submit_delegation via unified delegation endpoint ===\n=== TEST: submit_delegation to auto-route ===\nDONE_1869", "exit_code": 0}
+{"id": 1870, "status": "done", "execution_status": "success", "output": "=== DELEGATOR BINARY ===\n=== CONFIG ===\n=== DELEGATOR HELP ===\nbash: line 10: /home/jose/.local/bin/moreno-delegate: No such file or directory\n=== FIND DELEGATE BIN ===\nDONE_1870", "exit_code": 0}
